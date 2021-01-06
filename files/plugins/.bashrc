@@ -17,3 +17,4 @@
 # alias cp='cp -i'
 # alias mv='mv -i'
 alias menu='sudo menu fog'
+alias fog='sudo fog fog'
