@@ -37,10 +37,11 @@ Project Fog is VPS AutoScript lead by "blackestsaint" to minimize the time consu
   
 <h3 align="center">Commands</h3>
 <p align="center">
-  <a><img src="https://img.shields.io/badge/Commands-menu-yellow.svg"></a>
-  <a><img src="https://img.shields.io/badge/Commands-fog-yellow.svg"></a>
-  
- </p>
+   <a><img src="https://img.shields.io/badge/ For plain text list of commands:-menu-yellow.svg"></a>
+  </p>
+<p align="center">
+  <a><img src="https://img.shields.io/badge/ For colorful text list of commands:-fog-yellow.svg"></a>
+  </p>
 
 <h3 align="center">Installation</h3>
 
