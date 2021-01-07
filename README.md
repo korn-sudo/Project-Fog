@@ -4,9 +4,17 @@
 <br>     </br> 
 
 <p align="center">
-Project Fog is VPS AutoScript lead by "blackestsaint" to minimize the time consumed and user involvement in setting up your VPS
+Project Fog is VPS AutoScript lead by "blackestsaint" to minimize the time consumed and user involvement in setting up VPS.
 </p>
+<br>     </br> 
 
+
+<p align="center">Credits to:"
+PHC-Ford [FordSenpai] 🐱"
+Bon-chan 🦢"
+lfasmpao 🐯"
+ADM-Manager 🐬"
+  </p>
 
 <h3 align="center">Supported Linux Distro</h3>
 <p align="center">
@@ -109,4 +117,5 @@ Notes:
   <br>★ Other concern and questions of these auto-scripts?
   <br>★  Direct Messege : www.facebook.com/kornips
 
-   
+
+
