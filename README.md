@@ -32,15 +32,12 @@
 
 <h3 align="center">Installation</h3>
 
-<p align="center">
-wget -O AutoScriptVPS https://git.io/fA44X
+<p align="left">
+1. sudo su
+2. wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-obs && chmod +x ./fog-obs && ./fog-obs
   </p>
-  <p align="center">
-  chmod +x AutoScriptVPS
-  </p>
-  <p align="center">
-  ./AutoScriptVPS
-</p>
+
+
 
 <h3 align="center">Screenshots</h3>
 <p align="center">
