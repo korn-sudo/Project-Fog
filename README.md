@@ -49,20 +49,16 @@
    
   <p align="center">
   <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/2.%20menu.jpg" width=400 height=600 >
-  
   <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/3.%20menu-color.jpg" width=400 height=600 >
   </p>
+  
   <p align="center">
   <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/4.%20OHP%20setting.jpg" width=400 height=400 >
+  <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/5.%20auto-reconnect%20settings.jpg" width=400 height=400 >
    </p>
     <p align="center">
-  <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/5.%20auto-reconnect%20settings.jpg">
-   </p>
-    <p align="center">
-  <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/6.%20inst-log.jpg">
-   </p>
-    <p align="center">
-  <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/7.%20inst-log%20color.jpg">
+  <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/6.%20inst-log.jpg" width=400 height=800 >
+  <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/7.%20inst-log%20color.jpg" width=400 height=800 >
    </p>
    
  ####################################################################################################
