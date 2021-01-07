@@ -18,7 +18,7 @@ lfasmpao 🐯 |
 ADM-Manager 🐬 |
   </p>
 
-<h3 align="center">Supported Linux Distro</h3>
+<h3 align="center">Supported Linux Distro:</h3>
 <p align="center">
   <a><img src="https://img.shields.io/badge/Support-Debian%209-red.svg"></a>
   <a><img src="https://img.shields.io/badge/Support-Debian 10-red.svg"></a>
@@ -47,10 +47,10 @@ ADM-Manager 🐬 |
   
 <h3 align="center">Commands</h3>
 <p align="center">
-   <a><img src="https://img.shields.io/badge/ For plain text list of commands:-menu-yellow.svg"></a>
+   <a><img src="https://img.shields.io/badge/ For PLAIN TEXT list of commands:-menu-yellow.svg"></a>
   </p>
 <p align="center">
-  <a><img src="https://img.shields.io/badge/ For colorful text list of commands:-fog-yellow.svg"></a>
+  <a><img src="https://img.shields.io/badge/ For COLORFUL TEXT list of commands:-fog-yellow.svg"></a>
   </p>
 
 <h3 align="center">Installation</h3>
@@ -61,7 +61,9 @@ ADM-Manager 🐬 |
  <p align="center">
    2. wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-obs && chmod +x ./fog-obs && ./fog-obs
   </p>
-
+<p align="center">
+   3. Grab your coffee and wait. 🦊
+  </p>
 
 
 <h3 align="center">Screenshots</h3>
