@@ -84,30 +84,30 @@
 </p>
 
 <br>Automated Features:</br>
- <br>  • Auto delete expired user account</br>
- <br>  • Auto restart server </br>
-  <br> • Auto disconnect multilogin users (Openvpn not included).</br>
-  <br> • Auto configure firewall every reboot(Protection for torrent and etc..)</br>
-  <br> • Auto Reconnect features (see menu)</br>
-  <br> • Auto updated firewall(if port change,removed or add,firewall will adapt your new port)</br>
-  <br> • Auto updated OHP(Over-HTTP-Puncher)working even there's changes in ports</br>
+ <br>• Auto delete expired user account
+ <br>• Auto restart server 
+<br>• Auto disconnect multilogin users (Openvpn not included).<
+<br>• Auto configure firewall every reboot(Protection for torrent and etc..)
+<br>• Auto Reconnect features (see menu)
+<br>• Auto updated firewall(if port change,removed or add,firewall will adapt your new port)
+<br>• Auto updated OHP(Over-HTTP-Puncher)working even there's changes in ports
   
 
 Notes:
   <br>★ Edit/Change/Off/On your OHP Port (see in menu option) 
   <br>★ Torrent Protection [ add newest torrent port] 
   <br>★ Port Scanner Basic Protection  
- <br> ★ Brute Force Attack Basic Protection  
+  <br> ★ Brute Force Attack Basic Protection  
   <br>★ Customized timer for auto reconnect.(see menu) 
   <br>★ All ports of Squid, Dropbear, SSH, Openvpn can be edit.   ... And OHP still work. [OHP will adapt your new port] 
- <br> ★ Choose between Squid or Privoxy for Auto Reconnect(see menu). 
+  <br>★ Choose between Squid or Privoxy for Auto Reconnect(see menu). 
   <br>★ Multi-login Limit customize per user (see menu). 
   <br>★ Notification 0f Auto-Reconnect Status (see menu). 
- <br> ★ To display list of commands:  [ menu ] or [ menu fog ] 
+  <br>★ To display list of commands:  [ menu ] or [ menu fog ] 
   <br>★ Server running Openvpn both TCP and UDP protocol
- <br> ★ To download Openvpn config: http://your-vps-address
+  <br>★ To download Openvpn config: http://your-vps-address
   <br>★ Other concern and questions of these auto-scripts?
-  <br>  Direct Messege : www.facebook.com/kornips
+  <br>★  Direct Messege : www.facebook.com/kornips
 
    </p>
   
