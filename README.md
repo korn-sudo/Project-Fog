@@ -71,23 +71,21 @@
   
 Server Information:   
  >Fail2Ban       : [ON]   
- >IPtables       : [ON] 
+ >IPtables       : [ON]           
  >Auto-Reboot    : [ON] Every 04:10am  
  >TCP Speed Tweak: [ON]  
  >Squid Cache    : [ON]
  >IPv6           : [OFF]
    
-   Application & Port Information:
-• OpenVPN              : [ON] 
-• Dropbear             : [ON] 
-• Squid Proxy          : [ON] 
-• Privoxy              : [ON] 
-• Stunnel/SSL          : [ON] 
-• OHP (through Squid)  : [ON]  
-• OHP (through Privoxy): [ON] 
-• OHP (through Openvpn): [ON]  
-• BADVPN               : [ON] 
-• Additional SSHD Port : [ON] 
+Application & Port Information:
+> OpenVPN              : [ON] 
+> Dropbear             : [ON] 
+> Squid Proxy          : [ON] 
+> Privoxy              : [ON] 
+> Stunnel/SSL          : [ON] 
+> OHP (through Privoxy): [ON] 
+> BADVPN               : [ON] 
+> Additional SSHD Port : [ON] 
    
   
    
