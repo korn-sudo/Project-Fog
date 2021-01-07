@@ -65,30 +65,22 @@
 
 
 <br> Server Information: 
-  
-  • Fail2Ban       : [ON]
-   
-   • IPtables       : [ON]
-  
-  • Auto-Reboot    : [ON] Every 04:10am 
-  
-  • TCP Speed Tweak: [ON] 
-  
-  • Squid Cache    : [ON]
-  
-  • IPv6           : [OFF]
-</p>
+<br> • Fail2Ban       : [ON]
+<br> • IPtables       : [ON]
+<br> • Auto-Reboot    : [ON] Every 04:10am 
+<br> • TCP Speed Tweak: [ON] 
+<br> • Squid Cache    : [ON]
+<br> • IPv6           : [OFF]
 
-<br>Automated Features:</br>
- <br>• Auto delete expired user account
- <br>• Auto restart server 
+<br>Automated Features:
+<br>• Auto delete expired user account
+<br>• Auto restart server 
 <br>• Auto disconnect multilogin users (Openvpn not included).<
 <br>• Auto configure firewall every reboot(Protection for torrent and etc..)
 <br>• Auto Reconnect features (see menu)
 <br>• Auto updated firewall(if port change,removed or add,firewall will adapt your new port)
 <br>• Auto updated OHP(Over-HTTP-Puncher)working even there's changes in ports
   
-
 Notes:
   <br>★ Edit/Change/Off/On your OHP Port (see in menu option) 
   <br>★ Torrent Protection [ add newest torrent port] 
@@ -105,6 +97,4 @@ Notes:
   <br>★ Other concern and questions of these auto-scripts?
   <br>★  Direct Messege : www.facebook.com/kornips
 
-   </p>
-  
    
