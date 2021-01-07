@@ -1,8 +1,7 @@
 
-<h1 align="center">☁️☁️☁️ Project Fog ☁️☁️☁️</h1>
-<h1 align="center">VPS AutoScript  <img src="https://img.shields.io/badge/Version-1.0-orange.svg"></h1>
+<h1 align="center">☁️☁️☁️ Project Fog ☁️☁️☁️ <img src="https://img.shields.io/badge/Version-1.0-orange.svg"</h1>
 
-<p align="center">Project Fog is lead by [blackestsaint] to minimize the time consumed and user involvement in setting up your VPS</p>
+<p align="center">Project Fog is VPS AutoScript lead by "blackestsaint" to minimize the time consumed and user involvement in setting up your VPS</p>
 <h3 align="center">Supported Linux Distribution</h3>
 <p align="center">
   <a><img src="https://img.shields.io/badge/Support-Debian%209-red.svg"></a>
