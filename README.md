@@ -77,15 +77,14 @@ Server Information:
  >Squid Cache    : [ON]
  >IPv6           : [OFF]
    
-Application & Port Information:
-> OpenVPN              : [ON] 
-> Dropbear             : [ON] 
-> Squid Proxy          : [ON] 
-> Privoxy              : [ON] 
-> Stunnel/SSL          : [ON] 
-> OHP (through Privoxy): [ON] 
-> BADVPN               : [ON] 
-> Additional SSHD Port : [ON] 
+Automated Features:
+> Auto delete expired user account
+> Auto restart server 
+> Auto disconnect multilogin users (Openvpn not included).
+> Auto configure firewall every reboot(Protection for torrent and etc..)
+> Auto Reconnect features (see menu)
+> Auto updated firewall(if port change,removed or add,firewall will adapt your new port)
+> Auto updated OHP(Over-HTTP-Puncher)working even there's changes in ports
    
   
    
