@@ -97,13 +97,13 @@ ADM-Manager 🐬 |
 <br> • IPv6           : [OFF]
 
 <br>Automated Features:
-<br>• Auto delete expired user account
-<br>• Auto restart server 
-<br>• Auto disconnect multilogin users (Openvpn not included).<
-<br>• Auto configure firewall every reboot(Protection for torrent and etc..)
-<br>• Auto Reconnect features (see menu)
-<br>• Auto updated firewall(if port change,removed or add,firewall will adapt your new port)
-<br>• Auto updated OHP(Over-HTTP-Puncher)working even there's changes in ports
+<br>★ Auto delete expired user account
+<br>★ Auto restart server 
+<br>★ Auto disconnect multilogin users (Openvpn not included).<
+<br>★ Auto configure firewall every reboot(Protection for torrent and etc..)
+<br>★ Auto Reconnect features (see menu)
+<br>★ Auto updated firewall(if port change,removed or add,firewall will adapt your new port)
+<br>★ Auto updated OHP(Over-HTTP-Puncher)working even there's changes in ports
   
 Notes:
   <br>★ Edit/Change/Off/On your OHP Port (see in menu option) 
