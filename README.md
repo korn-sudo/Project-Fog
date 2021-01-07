@@ -1,6 +1,7 @@
 
+
 <h1 align="center">☁️☁️☁️ Project Fog ☁️☁️☁️ <img src="https://img.shields.io/badge/Version-1.0-orange.svg"</h1>
-<br>  
+<br>     </br> 
 <p align="center">
 Project Fog is VPS AutoScript lead by "blackestsaint" to minimize the time consumed and user involvement in setting up your VPS
 </p>
