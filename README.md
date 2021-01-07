@@ -34,6 +34,9 @@
 
 <p align="left">
 1. sudo su
+  </p>
+ <p align="left">
+  
 2. wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-obs && chmod +x ./fog-obs && ./fog-obs
   </p>
 
