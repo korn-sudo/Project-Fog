@@ -32,10 +32,10 @@
 
 <h3 align="center">Installation</h3>
 
-<p align="left">
-1. sudo su
+<p align="center">
+   1. sudo su
   </p>
- <p align="left">
+ <p align="center">
   
 2. wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-obs && chmod +x ./fog-obs && ./fog-obs
   </p>
