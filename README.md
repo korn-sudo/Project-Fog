@@ -2,17 +2,20 @@
 
 <h1 align="center">☁️☁️☁️ Project Fog ☁️☁️☁️ <img src="https://img.shields.io/badge/Version-1.0-orange.svg"</h1>
 <br>     </br> 
+
 <p align="center">
 Project Fog is VPS AutoScript lead by "blackestsaint" to minimize the time consumed and user involvement in setting up your VPS
 </p>
+
+
 <h3 align="center">Supported Linux Distribution</h3>
 <p align="center">
   <a><img src="https://img.shields.io/badge/Support-Debian%209-red.svg"></a>
   <a><img src="https://img.shields.io/badge/Support-Debian 10-red.svg"></a>
-  <a><img src="https://img.shields.io/badge/Support-Ubuntu 16-blue.svg"></a>
   <a><img src="https://img.shields.io/badge/Support-Ubuntu 18-blue.svg"></a>
   <a><img src="https://img.shields.io/badge/Support-Ubuntu 20-blue.svg"></a>
 </p>
+
 <h3 align="center">Services</h3>
 <p align="center">
   <a><img src="https://img.shields.io/badge/Service-OpenSSH-green.svg" ></a>
@@ -38,8 +41,7 @@ Project Fog is VPS AutoScript lead by "blackestsaint" to minimize the time consu
    1. sudo su
   </p>
  <p align="center">
-  
-2. wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-obs && chmod +x ./fog-obs && ./fog-obs
+   2. wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-obs && chmod +x ./fog-obs && ./fog-obs
   </p>
 
 
