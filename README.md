@@ -44,7 +44,7 @@
 
 <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://github.com/Dreyannz/AutoScriptVPS/raw/master/Files/Screenshots/1.JPG">
+<img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/1.%20menu-welcome.jpg">
    </p>
   <p align="center">
   <img src="https://github.com/Dreyannz/AutoScriptVPS/raw/master/Files/Screenshots/2.JPG">
