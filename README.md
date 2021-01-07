@@ -47,11 +47,20 @@
 <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/1.%20menu-welcome.jpg">
    </p>
   <p align="center">
-  <img src="https://github.com/Dreyannz/AutoScriptVPS/raw/master/Files/Screenshots/2.JPG">
+  <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/2.%20menu.jpg">
    </p>
   <p align="center">
-  <img src="https://github.com/Dreyannz/AutoScriptVPS/raw/master/Files/Screenshots/3.JPG">
+  <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/3.%20menu-color.jpg">
   </p>
   <p align="center">
-  <img src="https://github.com/Dreyannz/AutoScriptVPS/raw/master/Files/Screenshots/4.JPG">
+  <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/4.%20OHP%20setting.jpg">
+   </p>
+    <p align="center">
+  <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/5.%20auto-reconnect%20settings.jpg">
+   </p>
+    <p align="center">
+  <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/6.%20inst-log.jpg">
+   </p>
+    <p align="center">
+  <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/7.%20inst-log%20color.jpg">
    </p>
