@@ -8,10 +8,12 @@ Project Fog is VPS AutoScript lead by "blackestsaint" to minimize the time consu
 </p>
 
 
-<h3 align="center">Supported Linux Distribution</h3>
+<h3 align="center">Supported Linux Distro</h3>
 <p align="center">
   <a><img src="https://img.shields.io/badge/Support-Debian%209-red.svg"></a>
   <a><img src="https://img.shields.io/badge/Support-Debian 10-red.svg"></a>
+</p>
+<p align="center">
   <a><img src="https://img.shields.io/badge/Support-Ubuntu 18-blue.svg"></a>
   <a><img src="https://img.shields.io/badge/Support-Ubuntu 20-blue.svg"></a>
 </p>
@@ -22,12 +24,17 @@ Project Fog is VPS AutoScript lead by "blackestsaint" to minimize the time consu
   <a><img src="https://img.shields.io/badge/Service-Dropbear-green.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-Stunnel-green.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-OpenVPN TCP-green.svg"></a>
+   </p>
+ 
+<p align="center">
   <a><img src="https://img.shields.io/badge/Service-OpenVPN UDP-green.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-Squid3-green.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-Privoxy-green.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-OHP-green.svg"></a>
+  </p>
   
- </p>
+  
+  
 <h3 align="center">Commands</h3>
 <p align="center">
   <a><img src="https://img.shields.io/badge/Commands-menu-yellow.svg"></a>
