@@ -1,6 +1,7 @@
 
 
-<h1 align="center">☁️☁️☁️ Project Fog ☁️☁️☁️ <img src="https://img.shields.io/badge/Version-1.0-orange.svg"</h1>
+<h1 align="center">☁️☁️☁️ Project Fog ☁️☁️☁️ </h1>
+ <p align="center"> <img src="https://img.shields.io/badge/Version-1.0-orange.svg" </p>
 <br>     </br> 
 
 <p align="center">
@@ -9,11 +10,12 @@ Project Fog is VPS AutoScript lead by "blackestsaint" to minimize the time consu
 <br>     </br> 
 
 
-<p align="center">Credits to:"
-PHC-Ford [FordSenpai] 🐱"
-Bon-chan 🦢"
-lfasmpao 🐯"
-ADM-Manager 🐬"
+<p align="center">
+  Credits to:
+"PHC-Ford [FordSenpai] 🐱"
+"Bon-chan 🦢"
+"lfasmpao 🐯"
+"ADM-Manager 🐬"
   </p>
 
 <h3 align="center">Supported Linux Distro</h3>
