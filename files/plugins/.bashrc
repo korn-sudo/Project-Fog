@@ -16,5 +16,5 @@
 # alias rm='rm -i'
 # alias cp='cp -i'
 # alias mv='mv -i'
-alias fog='sudo menu fog'
-alias menu='sudo menu-no-color fog'
+
+alias menu='sudo menu fog'
