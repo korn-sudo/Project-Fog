@@ -58,6 +58,8 @@ ADM-Manager 🐬 |
 
 <p align="center">
  For Debian Distro:
+  </p>
+ <p align="center">
    1. sudo su
   </p>
  <p align="center">
@@ -69,6 +71,8 @@ ADM-Manager 🐬 |
 
 <p align="center">
  For Ubuntu Distro:
+   </p>
+ <p align="center">
    1. sudo su
   </p>
  <p align="center">
