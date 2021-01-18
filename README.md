@@ -55,33 +55,35 @@ ADM-Manager 🐬 |
   </p>
 
 <h3 align="center">Installation</h3>
-
-<p align="center">
+<br>
+<br>
+ <p align="left">
  For Debian Distro:
   </p>
- <p align="center">
+ <p align="left">
    1. sudo su
   </p>
- <p align="center">
+ <p align="left">
    2. wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-debian && chmod +x ./fog-debian && ./fog-debian
   </p>
-<p align="center">
+ <p align="left">
    3. Grab your coffee and wait. 🦊
   </p>
-
-<p align="center">
+  <br>
+  <br>
+ <p align="left">
  For Ubuntu Distro:
    </p>
- <p align="center">
+ <p align="left">
    1. sudo su
   </p>
- <p align="center">
+ <p align="left">
    2. wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-ubuntu && chmod +x ./fog-ubuntu && ./fog-ubuntu
   </p>
-<p align="center">
+ <p align="left">
    3. Grab your coffee and wait. 🦊
   </p>
-
+<br>
 <h3 align="center">Screenshots</h3>
 <p align="center">
 <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/01.jpg" width=400 height=400 >
