@@ -58,21 +58,7 @@ ADM-Manager 🐬 |
 <br>
 <br>
  <p align="left">
- For Debian Distro:
-  </p>
- <p align="left">
-   1. sudo su
-  </p>
- <p align="left">
-   2. wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-debian && chmod +x ./fog-debian && ./fog-debian
-  </p>
- <p align="left">
-   3. Grab your coffee and wait. 🦊
-  </p>
-  <br>
-  <br>
- <p align="left">
- 
+.
 <br>
 <h3 align="center">Screenshots</h3>
 <p align="center">
