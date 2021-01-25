@@ -72,17 +72,7 @@ ADM-Manager 🐬 |
   <br>
   <br>
  <p align="left">
- For Ubuntu Distro:
-   </p>
- <p align="left">
-   1. sudo su
-  </p>
- <p align="left">
-   2. wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-ubuntu && chmod +x ./fog-ubuntu && ./fog-ubuntu
-  </p>
- <p align="left">
-   3. Grab your coffee and wait. 🦊
-  </p>
+ 
 <br>
 <h3 align="center">Screenshots</h3>
 <p align="center">
