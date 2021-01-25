@@ -1,7 +1,7 @@
 
 
 <h1 align="center">☁️☁️☁️ Project Fog ☁️☁️☁️ </h1>
- <p align="center"> <img src="https://img.shields.io/badge/Version-2.0.0-pink.svg" </p>
+ <p align="center"> <img src="https://img.shields.io/badge/Version-2.1.0-pink.svg" </p>
 <br>     </br> 
 
 <p align="center">
@@ -46,7 +46,7 @@ ADM-Manager 🐬 |
   <p align="center">
   <a><img src="https://img.shields.io/badge/Service-Python Socks Proxy-green.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-Shadowsocks-green.svg"></a>
-
+ <a><img src="https://img.shields.io/badge/Service-V2Ray-green.svg"></a>
   </p>
   
 <h3 align="center">Commands</h3>
