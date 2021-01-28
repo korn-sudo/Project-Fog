@@ -16,6 +16,7 @@ PHC-Ford [FordSenpai] 🐱 |
 Bon-chan 🦢 |
 lfasmpao 🐯 |
 ADM-Manager 🐬 |
+Sprov 🌤️
   </p>
 
 <h3 align="center">Supported Linux Distro:</h3>
@@ -56,8 +57,20 @@ ADM-Manager 🐬 |
 
 <h3 align="center">Installation</h3>
 <br>
+<h3 align="center">For Debian</h3>
+<br>1. sudo su
+<br>2. https://github.com/korn-sudo/Project-Fog/raw/main/fog-debian && chmod +x ./fog-debian && ./fog-debian
 <br>
- <p align="left">
+<br>
+<h3 align="center">For Ubuntu</h3>
+<br> Coming soon . . .
+<br>
+<br>
+<h3 align="center">How to Access V2Ray Panel </h3>
+<br> 1. Go to your browser and type: http://your-ip-address-vps:65432
+<br> Username: admin
+<br> Password: admin
+<br>
 .
 <br>
 <h3 align="center">Screenshots</h3>
