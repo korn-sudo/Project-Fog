@@ -9,7 +9,6 @@ Project Fog is VPS AutoScript lead by "blackestsaint" to minimize the time consu
 </p>
 <br>     </br> 
 
-I will be back soon. . .
 <p align="center">
   Credits to:
 PHC-Ford [FordSenpai] 🐱 |
