@@ -1,7 +1,7 @@
 
 
 <h1 align="center">☁️☁️☁️ Project Fog ☁️☁️☁️ </h1>
- <p align="center"> <img src="https://img.shields.io/badge/Version-2.1.0-pink.svg" </p>
+ <p align="center"> <img src="https://img.shields.io/badge/Version-2.2.0-pink.svg" </p>
 <br>     </br> 
 
 <p align="center">
