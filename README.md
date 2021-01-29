@@ -84,7 +84,7 @@ Sprov 🌤️
    </p>
     <p align="center">
   <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/a2.jpg" width=400 height=500 >
- <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/a3.jpg.jpg" width=400 height=500 >
+ <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/a3.jpg" width=400 height=500 >
   
    </p>
     <p align="center">
