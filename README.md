@@ -74,58 +74,113 @@ Sprov 🌤️
 <br>
 <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/01.jpg" width=400 height=400 >
+<img src="https://phcorner.net/attachments/1-jpg.1215843/" width=400 height=400 >
    </p>
    
   <p align="center">
-  <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/02.jpg" width=400 height=600 >
-  <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/03.jpg" width=400 height=600 >
+  <img src="https://phcorner.net/attachments/2-jpg.1215844/" width=400 height=600 >
+  <img src="https://phcorner.net/attachments/3-jpg.1215845/" width=400 height=600 >
   </p>
   
   <p align="center">
-  <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/04.jpg" width=400 height=400 >
-  <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/05.jpg" width=400 height=400 >
+  <img src="https://phcorner.net/attachments/03-jpg.1151525/" width=400 height=400 >
+  <img src="https://phcorner.net/data/attachments/3322/3322708-2edaad9f0b9b51915879885ffcd66c58.jpg" width=400 height=400 >
    </p>
     <p align="center">
-  <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/06.jpg" width=400 height=800 >
+  <img src="https://phcorner.net/data/attachments/3322/3322709-31114a817e6ac53ed9d2de3f2950b16c.jpg" width=400 height=800 >
+ <img src="https://phcorner.net/data/attachments/3322/3322710-60075a5d0e7196f2d5d52851e20b8b82.jpg" width=400 height=800 >
+  
+   </p>
+    <p align="center">
+  <img src="https://phcorner.net/attachments/4-jpg.1215846/" width=400 height=800 >
+ <img src="https://phcorner.net/attachments/5-jpg.1215847/" width=400 height=800 >
+  
+   </p>
+   
+   </p>
+    <p align="center">
+  <img src="https://phcorner.net/attachments/v0-jpg.1207242/" width=400 height=800 >
+ <img src="https://phcorner.net/attachments/v2-jpg.1207249/" width=400 height=800 >
+  
+   </p>
+   
+   </p>
+    <p align="center">
+  <img src="https://phcorner.net/attachments/v4-jpg.1207250/" width=400 height=800 >
+ <img src="https://phcorner.net/attachments/v5-jpg.1207251/" width=400 height=800 >
+  
+   </p>
+   
+      </p>
+    <p align="center">
+  <img src="https://phcorner.net/attachments/v6-jpg.1207252/" width=400 height=800 >
   
    </p>
    
  ####################################################################################################
 
-
-<br> Server Information: 
-<br> • Fail2Ban       : [ON]
-<br> • IPtables       : [ON]
-<br> • Auto-Reboot    : [ON] Every 04:10am 
-<br> • TCP Speed Tweak: [ON] 
-<br> • Squid Cache    : [ON]
-<br> • IPv6           : [OFF]
-
+<br>
 <br>Automated Features:
 <br>★ Auto delete expired user account
-<br>★ Auto restart server 
-<br>★ Auto disconnect multilogin users (Openvpn not included).<
+<br>★ Auto disconnect multilogin users (Openvpn not included).
 <br>★ Auto configure firewall every reboot(Protection for torrent and etc..)
 <br>★ Auto Reconnect features (see menu)
-<br>★ Auto updated firewall(if port change,removed or add,firewall will adapt your new port)
+<br>★ Auto updated firewall(if port change, removed or add, firewall will adapt your new port)
 <br>★ Auto updated OHP(Over-HTTP-Puncher)working even there's changes in ports
-  
-Notes:
-  <br>★ Edit/Change/Off/On your OHP Port (see in menu option) 
-  <br>★ Torrent Protection [ add newest torrent port] 
-  <br>★ Port Scanner Basic Protection  
-  <br> ★ Brute Force Attack Basic Protection  
-  <br>★ Customized timer for auto reconnect.(see menu) 
-  <br>★ All ports can be edit.   ... And OHP and Python Socks will still work. [OHP and Socks Proxy will adapt your new port] 
-  <br>★ Choose between SSh, Dropbear or Privoxy for Auto Reconnect(see menu). 
-  <br>★ Multi-login Limit customize per user (see menu). 
-  <br>★ Notification 0f Auto-Reconnect Status (see menu). 
-  <br>★ To display list of commands:  [ menu ] or [ menu fog ] 
-  <br>★ Server running Openvpn both TCP and UDP protocol
-  <br>★ To download Openvpn config: http://your-vps-address
-  <br>★ Other concern and questions of these auto-scripts?
-  <br>★  Direct Messege : www.facebook.com/kornips
+<br>★ Auto updated Python Socks Proxy. Working even there's changes in ports
+<br>
+<br>Notes:
+<br>★ Edit/Change/Off/On your OHP Port (see in menu option)
+<br>★ Torrent Protection [ add newest torrent port]
+<br>★ Port Scanner Basic Protection
+<br>★ Brute Force Attack Basic Protection
+<br>★ Customized timer for auto reconnect.(see menu)
+<br>★ All ports can be edit. ... And OHP and Python Socks Proxy still work. [OHP will Python Socks adapt your new port]
+<br>★ Choose between Squid or Privoxy for Auto Reconnect(see menu).
+<br>★ Multi-login Limit customize per user (see menu).
+<br>★ Notification 0f Auto-Reconnect Status (see menu).
+<br>★ To display list of commands: [ menu ] or [ menu fog ]
+<br>★ Server running Openvpn both TCP and UDP protocol
+<br>★ To download Openvpn config: http://your-vps-address [make sure its not https]
+<br>
+<br>
+<br>
+
+<br>Changelog:
+<br>Fixed Issues encountered in ver.2.0:
+<br>1. Confusing Reboot Schedule due to wrong Timezone fix.
+<br>2. Stunnel minor issues fix.
+<br>3. Typo error in Edit Port fix.
+<br>
+<br>
+<br>Newly Added:
+<br>V2Ray Panel
+<br>
+<br>How to Access V2ray Panel:
+<br>Go to your browser and type: http://your-ip-address-vps:65432
+<br>Username: admin
+<br>Password: admin
+<br>
+<br>Other Settings of V2Ray are can be access to your VPS Menu.
+<br>
+<br>Note: Panel Settings not working.
+<br>Change Panel Port through VPS Menu if you dont others to access your Panel.
+<br>
+<br>
+<br>Note: im not the author or who make the V2ray Panel.
+<br>All credits to Sprov of Github
+<br>
+<br>
+<br>Version 2.2.0 Changelog:
+<br>Add New option in Main Menu [ Others ]
+<br>Others Menu Contain Following:
+<br>A. One-tap Allow New port in IPTABLES
+<br>[ V2Ray Panel not trigger my Auto allow for New port in IPTABLES ] so i made this.
+<br>B. Option for TCP Speed Tweak can now On or OFF, see in Menu >> Others.
+<br>C. Auto Reconnect move to Others.
+<br>D. Installation Log included again
+<br>E. Uninstaller [Remove all Project Fog Services and Files ], [Note: Only works in Project Fog ]
+
 
 
 
