@@ -4,10 +4,6 @@
  <p align="center"> <img src="https://img.shields.io/badge/Version-2.2.0-pink.svg" </p>
 <br>     </br> 
 
-<p align="center">
-Project Fog is VPS AutoScript lead by "blackestsaint" to minimize the time consumed and user involvement in setting up VPS. 
-</p>
-<br>     </br> 
 
 <p align="center">
   Credits to:
