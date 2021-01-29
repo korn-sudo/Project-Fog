@@ -83,33 +83,33 @@ Sprov 🌤️
   <img src="https://phcorner.net/data/attachments/3322/3322708-2edaad9f0b9b51915879885ffcd66c58.jpg" width=400 height=400 >
    </p>
     <p align="center">
-  <img src="https://phcorner.net/data/attachments/3322/3322709-31114a817e6ac53ed9d2de3f2950b16c.jpg" width=400 height=800 >
- <img src="https://phcorner.net/data/attachments/3322/3322710-60075a5d0e7196f2d5d52851e20b8b82.jpg" width=400 height=800 >
+  <img src="https://phcorner.net/data/attachments/3322/3322709-31114a817e6ac53ed9d2de3f2950b16c.jpg" width=400 height=500 >
+ <img src="https://phcorner.net/data/attachments/3322/3322710-60075a5d0e7196f2d5d52851e20b8b82.jpg" width=400 height=500 >
   
    </p>
     <p align="center">
-  <img src="https://phcorner.net/attachments/4-jpg.1215846/" width=400 height=800 >
- <img src="https://phcorner.net/attachments/5-jpg.1215847/" width=400 height=800 >
-  
-   </p>
-   
-   </p>
-    <p align="center">
-  <img src="https://phcorner.net/attachments/v0-jpg.1207242/" width=400 height=800 >
- <img src="https://phcorner.net/attachments/v2-jpg.1207249/" width=400 height=800 >
+  <img src="https://phcorner.net/attachments/4-jpg.1215846/" width=400 height=500 >
+ <img src="https://phcorner.net/attachments/5-jpg.1215847/" width=400 height=500 >
   
    </p>
    
    </p>
     <p align="center">
-  <img src="https://phcorner.net/attachments/v4-jpg.1207250/" width=400 height=800 >
- <img src="https://phcorner.net/attachments/v5-jpg.1207251/" width=400 height=800 >
+  <img src="https://phcorner.net/attachments/v0-jpg.1207242/" width=400 height=500 >
+ <img src="https://phcorner.net/attachments/v2-jpg.1207249/" width=400 height=500 >
+  
+   </p>
+   
+   </p>
+    <p align="center">
+  <img src="https://phcorner.net/attachments/v4-jpg.1207250/" width=400 height=500 >
+ <img src="https://phcorner.net/attachments/v5-jpg.1207251/" width=400 height=500 >
   
    </p>
    
       </p>
     <p align="center">
-  <img src="https://phcorner.net/attachments/v6-jpg.1207252/" width=400 height=800 >
+  <img src="https://phcorner.net/attachments/v6-jpg.1207252/" width=400 height=500 >
   
    </p>
    
