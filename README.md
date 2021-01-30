@@ -22,8 +22,6 @@ Sprov 🌤️
 <p align="center">
   <a><img src="https://img.shields.io/badge/Support-Debian%209-red.svg"></a>
   <a><img src="https://img.shields.io/badge/Support-Debian 10-red.svg"></a>
-</p>
-<p align="center">
   <a><img src="https://img.shields.io/badge/Support-Ubuntu 18-blue.svg"></a>
   <a><img src="https://img.shields.io/badge/Support-Ubuntu 20-blue.svg"></a>
 </p>
@@ -34,19 +32,14 @@ Sprov 🌤️
   <a><img src="https://img.shields.io/badge/Service-Dropbear-green.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-Stunnel-green.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-OpenVPN TCP-green.svg"></a>
-   </p>
- 
-<p align="center">
+  <p align="center">
   <a><img src="https://img.shields.io/badge/Service-OpenVPN UDP-green.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-Squid3-green.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-Privoxy-green.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-OHP-green.svg"></a>
-  </p>
-  
-  <p align="center">
   <a><img src="https://img.shields.io/badge/Service-Python Socks Proxy-green.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-Shadowsocks-green.svg"></a>
- <a><img src="https://img.shields.io/badge/Service-V2Ray-green.svg"></a>
+  <a><img src="https://img.shields.io/badge/Service-V2Ray-green.svg"></a>
   </p>
   
 <h3 align="center">Commands</h3>
@@ -72,7 +65,6 @@ Go to your browser and type: http://your-ip-address-vps:65432
    
   <p align="center">
   <img src="https://phcorner.net/attachments/2-jpg.1215844/" width=400 height=600 >
-  <img src="https://phcorner.net/attachments/03-jpg.1151525/" width=400 height=600 >
  <img src="https://phcorner.net/attachments/v5-jpg.1207251/" width=400 height=600 >
   </p>
    
