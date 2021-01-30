@@ -54,16 +54,16 @@ Sprov 🌤️
    <a><img src="https://img.shields.io/badge/ Commands:-menu-yellow.svg"></a>
   </p>
 
-<h3 align="center">Installation</h3>
+<h3 align="left">Installation</h3>
   </p>
-<h3 align="center">For Debian</h3>
+<br>For Debian
 <br>1. sudo su
 <br>2. https://github.com/korn-sudo/Project-Fog/raw/main/fog-debian && chmod +x ./fog-debian && ./fog-debian
-
-<h3 align="center">For Ubuntu</h3>
+<br>
+<br>For Ubuntu
 <br> Coming soon . . .
 
-<h3 align="center">How to Access V2Ray Panel </h3>
+<h3 align="left">How to Access V2Ray Panel </h3>
 <br> 1. Go to your browser and type: http://your-ip-address-vps:65432
 <br> Username: admin
 <br> Password: admin
