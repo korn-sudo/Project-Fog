@@ -62,10 +62,10 @@ For Debian:
 <br>For Ubuntu:
 <br> Coming soon . . .
 
-<h3 align="left">How to Access V2Ray Panel </h3>
-<br> 1. Go to your browser and type: http://your-ip-address-vps:65432
+<h3 align="left">How to Access V2Ray Panel</h3>
+Go to your browser and type: http://your-ip-address-vps:65432
 <br> Username: admin
-<br> Password: admin
+<br> Password: admin  
 
 <h3 align="center">Screenshots</h3>
 
