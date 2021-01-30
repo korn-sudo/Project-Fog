@@ -74,19 +74,14 @@ Sprov 🌤️
 .
 <br>
 <h3 align="center">Screenshots</h3>
-<p align="center">
-<img src="https://phcorner.net/attachments/1-jpg.1215843/" width=400 height=400 >
-   </p>
+
    
   <p align="center">
   <img src="https://phcorner.net/attachments/2-jpg.1215844/" width=400 height=600 >
-  <img src="https://phcorner.net/attachments/3-jpg.1215845/" width=400 height=600 >
+  <img src="https://phcorner.net/attachments/03-jpg.1151525/" width=400 height=400 >
   </p>
   
-  <p align="center">
-  <img src="https://phcorner.net/attachments/03-jpg.1151525/" width=400 height=400 >
-  <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/a1.jpg" width=400 height=400 >
-   </p>
+
     <p align="center">
   <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/a2.jpg" width=400 height=500 >
  <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/a3.jpg" width=400 height=500 >
