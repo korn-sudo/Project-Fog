@@ -1,15 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=korn-sudo&color=green)
 <h1 align="center">☁️☁️☁️ Project Fog ☁️☁️☁️ </h1>
  <p align="center"> <img src="https://img.shields.io/badge/Version-2.2.0-pink.svg" </p>
-
 <br>  
 
 <p align="center">
 Project Fog is VPS AutoScript for Debian and Ubuntu Distros. 
 <br> Contains pre-installed tunneling application. Read below all supported application.
   </p>
+  <br>  
   
-<br>  
 <p align="center">
   Credits to:
 PHC-Ford [FordSenpai] 🐱 |
@@ -56,23 +55,19 @@ Sprov 🌤️
   </p>
 
 <h3 align="center">Installation</h3>
-<br>
+  </p>
 <h3 align="center">For Debian</h3>
 <br>1. sudo su
 <br>2. https://github.com/korn-sudo/Project-Fog/raw/main/fog-debian && chmod +x ./fog-debian && ./fog-debian
-<br>
-<br>
+
 <h3 align="center">For Ubuntu</h3>
 <br> Coming soon . . .
-<br>
-<br>
+
 <h3 align="center">How to Access V2Ray Panel </h3>
 <br> 1. Go to your browser and type: http://your-ip-address-vps:65432
 <br> Username: admin
 <br> Password: admin
-<br>
-.
-<br>
+  </p>
 <h3 align="center">Screenshots</h3>
 
    
@@ -81,13 +76,6 @@ Sprov 🌤️
   <img src="https://phcorner.net/attachments/03-jpg.1151525/" width=400 height=600 >
  <img src="https://phcorner.net/attachments/v5-jpg.1207251/" width=400 height=600 >
   </p>
-  
-
-   
-   
-   
-  
-   
    
  ####################################################################################################
 
