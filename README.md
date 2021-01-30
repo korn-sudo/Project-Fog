@@ -5,9 +5,9 @@
 <br>  
 
 <p align="center">
-Project Fog is VPS Autoscript for Debian and UBuntu Distros. 
+Project Fog is VPS AutoScript for Debian and UBuntu Distros. 
 <br> It contains pre-installed tunneling application. Read below all supported application.
-<br> After Autoscript finsih, the only thing you need to do are: 
+<br> After AutoScript finsih, the only thing you need to do are: 
 <br> Adding accounts then use to any Project Fog supported Tunneling Application.
   </p>
   
