@@ -78,35 +78,15 @@ Sprov 🌤️
    
   <p align="center">
   <img src="https://phcorner.net/attachments/2-jpg.1215844/" width=400 height=600 >
-  <img src="https://phcorner.net/attachments/03-jpg.1151525/" width=400 height=400 >
+  <img src="https://phcorner.net/attachments/03-jpg.1151525/" width=400 height=600 >
+ <img src="https://phcorner.net/attachments/v5-jpg.1207251/" width=400 height=600 >
   </p>
   
 
-    <p align="center">
-  <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/a2.jpg" width=400 height=500 >
- <img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/a3.jpg" width=400 height=500 >
-  
-   </p>
-    <p align="center">
-  <img src="https://phcorner.net/attachments/4-jpg.1215846/" width=400 height=500 >
- <img src="https://phcorner.net/attachments/5-jpg.1215847/" width=400 height=500 >
-  
-   </p>
    
-   </p>
-    <p align="center">
-  <img src="https://phcorner.net/attachments/v0-jpg.1207242/" width=400 height=500 >
- <img src="https://phcorner.net/attachments/v2-jpg.1207249/" width=400 height=500 >
-  
-   </p>
    
-   </p>
-    <p align="center">
-  <img src="https://phcorner.net/attachments/v4-jpg.1207250/" width=400 height=500 >
- <img src="https://phcorner.net/attachments/v5-jpg.1207251/" width=400 height=500 >
-  <img src="https://phcorner.net/attachments/v6-jpg.1207252/" width=400 height=500 >
+   
   
-   </p>
    
    
  ####################################################################################################
