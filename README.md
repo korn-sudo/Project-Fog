@@ -55,18 +55,11 @@ For Debian:
 <br>For Ubuntu:
 <br> Coming soon . . .
 
-<h3 align="left">How to Access V2Ray Panel</h3>
-Go to your browser and type: http://your-ip-address-vps:65432
-<br> Username: admin
-<br> Password: admin  
-
 <h3 align="center">Screenshots</h3>
-
-   
-  <p align="center">
-  <img src="https://phcorner.net/attachments/2-jpg.1215844/" width=400 height=600 >
- <img src="https://phcorner.net/attachments/v5-jpg.1207251/" width=400 height=600 >
-  </p>
+<p align="center">
+<img src="https://phcorner.net/attachments/2-jpg.1215844/" width=400 height=600 >
+<img src="https://phcorner.net/attachments/v5-jpg.1207251/" width=400 height=600 >
+</p>
    
  ####################################################################################################
 
