@@ -61,7 +61,7 @@ For Debian:
 <img src="https://phcorner.net/attachments/v5-jpg.1207251/" width=400 height=600 >
 </p>
    
- ####################################################################################################
+
 
 <br>
 <br>Automated Features:
