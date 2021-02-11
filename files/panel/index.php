@@ -4,20 +4,20 @@
 /////////////////////////////
 
 //FILL UP ALL VARIABLE [ $ ] | BASE TO YOUR DESIRE://
+$Nginx_Port= "NXPort";				 // Nginx Port
 $site_name        = "Project Fog";
 $site_description = "Premium Fast And Reliable Servers";
 $site_template    = "flatly"; // (flatly, darkly, sketchy, lumen, materia)
 $site_ovpnmonitoring = "http://fogserverip:Fog_Openvpn_Monitoring"; // Openvpn Monitoring
 $site_v2ray = "http://fogserverip:v2portas"; // v2ray ip and PORT
-$site_config = "http://fogserverip:$Nginx_Port/projectfog.html"; // list of config
-$config_zips = "http://fogserverip:$Nginx_Port/$config_fog"; // Zip Download
+$site_config = "http://fogserverip:NXPort/projectfog.html"; // list of config
+$config_zips = "http://fogserverip:NXPort/config.zip"; // ovpn zip check it on /home/vps/public_html
 $daily_limit_user = "50"; // set daily limit
 
 /////////////////////////////
 /////////////////////////////
 
 //Double Check if correct. Update anything not correct.
-$Nginx_Port= "NXPort";				 // Nginx Port
 $port_ssh= 'SSH_Port1 | SSH_Port2'; 		   	 // SSH Ports
 $port_dropbear= 'Dropbear_Port1 | Dropbear_Port2';  	 // Dropbear Ports
 $port_ssl_dp= 'Stunnel_Port1';                    	 // SSL through Dropbear
