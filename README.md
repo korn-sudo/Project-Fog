@@ -134,6 +134,7 @@ For Debian:
 <br> Note:
 <br> To Enable OCS Panel, you must edit the index.php
 <br> Directory Path: /home/vps/public_html/index.php
+<br> Put your root password in Line 45 of /home/vps/public_html/index.php
 <br>
 <br> 3. Added OpenVpn Monitoring Panel
 <br> 4. Added Generating Certificate for V2Ray TLS | Menu > Other > 5
