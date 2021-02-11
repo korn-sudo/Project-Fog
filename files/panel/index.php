@@ -36,7 +36,7 @@ $config_fog = "config.zip";				 // Zip File Name for your OVPN Config /Default: 
 
 /////////////////////////////  
 /////////////////////////////
-
+//  SHARPEN YOUR EYES!! READ PATTERN BELOW AND EDIT LINE 45,46,47,ETC
 /* Server Data */
 /* Variable = Server_Name, IP_Address, Root_Pass, Account_Validity */
 /* Sample: 1=>array(1=>"Name of your Server 1","your-ip-address","server-or-root-password","5"), */
