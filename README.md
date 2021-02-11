@@ -134,12 +134,12 @@ For Debian:
 <br> Added Renewal Certificate V2Ray TLS  | Menu > Other > 7
 
 
-Troubleshooting:
-If you encouter this kind of error:
+<br>Troubleshooting:
+<br>If you encouter this kind of error:
+<br>
+<br>ERROR: The certificate of `raw.githubusercontent.com' is not trusted.
+<br>ERROR: The certificate of `raw.githubusercontent.com' hasn't got a known issuer.
 
-ERROR: The certificate of `raw.githubusercontent.com' is not trusted.
-ERROR: The certificate of `raw.githubusercontent.com' hasn't got a known issuer.
-
-Install first this before install Project Fog AutoScript:
-sudo apt-get install ca-certificates
+<br>Install first this before install Project Fog AutoScript:
+<br>sudo apt-get install ca-certificates
 
