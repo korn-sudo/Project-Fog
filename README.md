@@ -128,13 +128,17 @@ For Debian:
 <br>E. Uninstaller [Remove all Project Fog Services and Files ], [Note: Only works in Project Fog ]
 
 <br>Version 2.3.0 Changelog:
-<br> Fix No Menu in Vultr Host
-<br> Added Built-in OCS Panel
+<br> 1. Fix No Menu in Vultr Host
+<br> 2. Added Built-in OCS Panel
 <br> To access OCS Panel: http://your-VPS-ip:85
-<br> Added OpenVpn Monitoring Panel
-<br> Added Generating Certificate for V2Ray TLS | Menu > Other > 5
-<br> Added Revoking Certificate V2Ray TLS  | Menu > Other > 6
-<br> Added Renewal Certificate V2Ray TLS  | Menu > Other > 7
+<br> Note:
+<br> To Enable OCS Panel, you must edit the index.php
+<br> Directory Path: /home/vps/public_html/index.php
+<br>
+<br> 3. Added OpenVpn Monitoring Panel
+<br> 4. Added Generating Certificate for V2Ray TLS | Menu > Other > 5
+<br> 5. Added Revoking Certificate V2Ray TLS  | Menu > Other > 6
+<br> 6. Added Renewal Certificate V2Ray TLS  | Menu > Other > 7
 
 
 
