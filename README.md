@@ -125,6 +125,13 @@ For Debian:
 <br>D. Installation Log included again
 <br>E. Uninstaller [Remove all Project Fog Services and Files ], [Note: Only works in Project Fog ]
 
+<br>Version 2.3.0 Changelog:
+<br> Added Built-in OCS Panel
+<br> Added OpenVpn Monitoring Panel
+<br> Added Generating Certificate for V2Ray TLS | Menu > Other > 5
+<br> Added Revoking Certificate V2Ray TLS  | Menu > Other > 6
+<br> Added Renewal Certificate V2Ray TLS  | Menu > Other > 7
+
 
 
 
