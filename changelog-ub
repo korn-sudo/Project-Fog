@@ -4,22 +4,14 @@
      
      
 Online Update Changelog:
-Version 2.1.0
+Version 2.3.0
            
 Changes:
-1. Fix minors issues.
-2. Added New Services : V2Ray
-3. Port 80 and 443 removed and change from Stunnel and Nginx. [ For V2Ray purposes. ]
-         
-How to Update?
-1. Rebuild your VPS / Server.
-2. Install again my script.
-         
-Note:
-Due to busy schedule, i cant provide Online Update
-Instead rebuild and fresh install Project Fog 2.1.0
-      
+
+   
+
       
 Thank you,
 -korn / blackestsaint
+      
 
