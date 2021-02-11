@@ -50,7 +50,7 @@ Sprov 🌤️
 <h3 align="left">Installation:</h3>
 For Debian:
 <br>1. sudo su
-<br>2. https://github.com/korn-sudo/Project-Fog/raw/main/fog-debian && chmod +x ./fog-debian && ./fog-debian
+<br>2. wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-debian && chmod +x ./fog-debian && ./fog-debian
 <br>
 <br>For Ubuntu:
 <br> Coming soon . . .
