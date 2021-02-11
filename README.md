@@ -138,9 +138,7 @@ For Debian:
 <br> Put your root password in Line 45 of /home/vps/public_html/index.php
 <br>
 <br> 3. Added OpenVpn Monitoring Panel
-<br> 4. Added Generating Certificate for V2Ray TLS | Menu > Other > 5
-<br> 5. Added Revoking Certificate V2Ray TLS  | Menu > Other > 6
-<br> 6. Added Renewal Certificate V2Ray TLS  | Menu > Other > 7
+<br> 4. Added Generate, Revoke, Renewal Certificate for V2Ray TLS | Menu > Other
 
 
 
