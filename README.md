@@ -63,83 +63,37 @@ For Debian:
 <img src="https://phcorner.net/attachments/v5-jpg.1207251/" width=300 height=600 >
  <img src="https://phcorner.net/attachments/screenshot_20210211-183356_chrome-jpg.1297712//" width=300 height=600 >
 </p>
-   
-
 
 <br>
-<br>Automated Features:
+<br>Features:
 <br>★ Auto delete expired user account
 <br>★ Auto disconnect multilogin users (Openvpn not included).
 <br>★ Auto configure firewall every reboot(Protection for torrent and etc..)
-<br>★ Auto Reconnect features (see menu)
 <br>★ Auto updated firewall(if port change, removed or add, firewall will adapt your new port)
 <br>★ Auto updated OHP(Over-HTTP-Puncher)working even there's changes in ports
 <br>★ Auto updated Python Socks Proxy. Working even there's changes in ports
-<br>
-<br>Notes:
-<br>★ Edit/Change/Off/On your OHP Port (see in menu option)
+<br>★ Edit/Change/Off/On your OHP Port and Python Socks (see in menu option)
 <br>★ Torrent Protection [ add newest torrent port]
 <br>★ Port Scanner Basic Protection
 <br>★ Brute Force Attack Basic Protection
-<br>★ Customized timer for auto reconnect.(see menu)
-<br>★ All ports can be edit. ... And OHP and Python Socks Proxy still work. [OHP will Python Socks adapt your new port]
-<br>★ Choose between Squid or Privoxy for Auto Reconnect(see menu).
 <br>★ Multi-login Limit customize per user (see menu).
-<br>★ Notification 0f Auto-Reconnect Status (see menu).
-<br>★ To display list of commands: [ menu ] or [ menu fog ]
-<br>★ Server running Openvpn both TCP and UDP protocol
-<br>★ To download Openvpn config: http://your-vps-address [make sure its not https]
 <br>
-<br>
-<br>
-
-<br>Changelog:
-<br>Fixed Issues encountered in ver.2.0:
-<br>1. Confusing Reboot Schedule due to wrong Timezone fix.
-<br>2. Stunnel minor issues fix.
-<br>3. Typo error in Edit Port fix.
-<br>
-<br>
-<br>Newly Added:
-<br>V2Ray Panel
-<br>
-<br>How to Access V2ray Panel:
+<br>How to access V2Ray Panel:
 <br>Go to your browser and type: http://your-ip-address-vps:65432
-<br>Username: admin
-<br>Password: admin
-<br>
-<br>Other Settings of V2Ray are can be access to your VPS Menu.
+<br>Username: admin | Password: admin
 <br>
 <br>Note: Panel Settings not working.
-<br>Change Panel Port through VPS Menu if you dont others to access your Panel.
+<br>Change Panel Port through VPS Menu if you don't others to access your Panel.
 <br>
-<br>
-<br>Note: im not the author or who make the V2ray Panel.
-<br>All credits to Sprov of Github
-<br>
-<br>
-<br>Version 2.2.0 Changelog:
-<br>Add New option in Main Menu [ Others ]
-<br>Others Menu Contain Following:
-<br>A. One-tap Allow New port in IPTABLES
-<br>[ V2Ray Panel not trigger my Auto allow for New port in IPTABLES ] so i made this.
-<br>B. Option for TCP Speed Tweak can now On or OFF, see in Menu >> Others.
-<br>C. Auto Reconnect move to Others.
-<br>D. Installation Log included again
-<br>E. Uninstaller [Remove all Project Fog Services and Files ], [Note: Only works in Project Fog ]
-
 <br>Version 2.3.0 Changelog:
-<br> 1. Fix No Menu in Vultr Host
-<br> 2. Added Built-in OCS Panel
-<br> To access OCS Panel: http://your-VPS-ip:85
-<br> Note:
-<br> To Enable OCS Panel, you must edit the index.php
-<br> Directory Path: /home/vps/public_html/index.php
-<br> Put your root password in Line 45 of /home/vps/public_html/index.php
+<br>1. Fix No Menu in Vultr Host
+<br>2. Added Built-in OCS Panel
+<br>To access OCS Panel: http://your-VPS-ip:85
+<br>
+<br>Note:
+<br>To Enable OCS Panel, you must edit the index.php | Directory Path: /home/vps/public_html/index.php
+<br>Put your root password in Line 45 of /home/vps/public_html/index.php
 <br>
 <br> 3. Added OpenVpn Monitoring Panel
 <br> 4. Added Generate, Revoke, Renewal Certificate for V2Ray TLS | Menu > Other
-
-
-
 
