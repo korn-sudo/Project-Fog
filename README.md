@@ -56,7 +56,7 @@ For Debian:
 <br>
 <br>For Ubuntu:
 <br>1. sudo su
-<br>2. wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-ubuntu && chmod +x ./fog-ubuntu && ./fog-ubuntu
+<br>2. soon . . . 
 
 
 <h3 align="center">Screenshots</h3>
