@@ -100,5 +100,5 @@ For Debian:
 <br> 4. Added Generate, Revoke, Renewal Certificate for V2Ray TLS | Menu > Other
 <br>
 <br>Version 2.3.2 Changelog:
-<br>1. Fix minor bugs in openvpn monitoring.
+<br>Fix bugs in openvpn monitoring.
 
