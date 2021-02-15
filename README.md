@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=korn-sudo&color=green)
 <h1 align="center">☁️☁️☁️ Project Fog ☁️☁️☁️ </h1>
- <p align="center"> <img src="https://img.shields.io/badge/Version-2.3.0-pink.svg" </p>
+ <p align="center"> <img src="https://img.shields.io/badge/Version-2.3.2-pink.svg" </p>
 <br>  
 
 <p align="center">
@@ -98,4 +98,7 @@ For Debian:
 <br>
 <br> 3. Added OpenVpn Monitoring Panel
 <br> 4. Added Generate, Revoke, Renewal Certificate for V2Ray TLS | Menu > Other
+<br>
+<br>Version 2.3.2 Changelog:
+<br>1. Fix minor bugs in openvpn monitoring.
 
