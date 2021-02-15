@@ -63,7 +63,7 @@ For Debian:
 <p align="center">
 <img src="https://phcorner.net/attachments/2-jpg.1215844/" width=300 height=600 >
 <img src="https://phcorner.net/attachments/v5-jpg.1207251/" width=300 height=600 >
- <img src="https://phcorner.net/attachments/screenshot_20210211-183356_chrome-jpg.1297712//" width=300 height=600 >
+ <img src="https://phcorner.net/attachments/1613383892218-png.1302954/" width=300 height=600 >
 </p>
 
 <br>
