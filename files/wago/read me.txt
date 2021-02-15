@@ -1,0 +1,2 @@
+ver1 = openvpn authentication base on pam [ default authentication of Project Fog ]
+ver2 = openvpn authentication base on mysql [ wago panel authentication version ]
