@@ -88,18 +88,15 @@ For Debian:
 <br>Note: Panel Settings not working.
 <br>Change Panel Port through VPS Menu if you don't others to access your Panel.
 <br>
-<br>Version 2.3.0 Changelog:
-<br>1. Fix No Menu in Vultr Host
-<br>2. Added Built-in OCS Panel
-<br>To access OCS Panel: http://your-VPS-ip:85
+<br>How to access OCS Panel and OVPN Config:
+<br>Go to your browser and enter this link:
+<br>http://123.123.123.123:85
+<br>Change 123.123.123.123 to your VPS IP Address
 <br>
-<br>Note:
 <br>To Enable OCS Panel, you must edit the index.php | Directory Path: /home/vps/public_html/index.php
 <br>Put your root password in Line 45 of /home/vps/public_html/index.php
 <br>
-<br> 3. Added OpenVpn Monitoring Panel
-<br> 4. Added Generate, Revoke, Renewal Certificate for V2Ray TLS | Menu > Other
-<br>
 <br>Version 2.3.2 Changelog:
 <br>Fix bugs in openvpn monitoring.
+<br>Added Support for Ubuntu Distros.
 
