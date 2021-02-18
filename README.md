@@ -56,7 +56,7 @@ For Debian:
 <br>
 <br>For Ubuntu:
 <br>1. sudo su
-<br>2. soon . . . 
+<br>2. wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-ubuntu && chmod +x ./fog-ubuntu && ./fog-ubuntu
 
 
 <h3 align="center">Screenshots</h3>
@@ -79,6 +79,7 @@ For Debian:
 <br>★ Port Scanner Basic Protection
 <br>★ Brute Force Attack Basic Protection
 <br>★ Multi-login Limit customize per user (see menu).
+<br>★ Webmin installed version 1.970 [up to date]
 <br>
 <br>How to access V2Ray Panel:
 <br>Go to your browser and type: http://your-ip-address-vps:65432
