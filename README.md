@@ -41,10 +41,10 @@ Currently these are applications already installed:
 - Automatic applied rules in Iptables in every reboot and changes ports.
 
 
->Iptables Rules are protection from torrent and other abusive use.
->Torrent Protection [ add newest torrent port]
->Port Scanner Basic Protection
->Brute Force Attack Basic Protection
+>_Iptables Rules are protection from torrent and other abusive use._
+>_ Torrent Protection [ add newest torrent port]._
+>_ Port Scanner Basic Protection._
+>_ Brute Force Attack Basic Protection._
 
 How to access V2Ray Panel:
 Go to your browser and enter this link: 
