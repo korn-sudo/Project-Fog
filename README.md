@@ -64,15 +64,6 @@ Put your root password in Line 45 of this directory:
 >/home/vps/public_html/index.php
 
 
-
-
-
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
-
-
-
 ## Installation
 
 
