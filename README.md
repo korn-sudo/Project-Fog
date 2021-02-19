@@ -68,35 +68,34 @@ For Debian:
 
 <br>
 <br>Features:
-<br>★ Auto delete expired user account
-<br>★ Auto disconnect multilogin users (Openvpn not included).
-<br>★ Auto configure firewall every reboot(Protection for torrent and etc..)
-<br>★ Auto updated firewall(if port change, removed or add, firewall will adapt your new port)
-<br>★ Auto updated OHP(Over-HTTP-Puncher)working even there's changes in ports
-<br>★ Auto updated Python Socks Proxy. Working even there's changes in ports
-<br>★ Edit/Change/Off/On your OHP Port and Python Socks (see in menu option)
-<br>★ Torrent Protection [ add newest torrent port]
-<br>★ Port Scanner Basic Protection
-<br>★ Brute Force Attack Basic Protection
-<br>★ Multi-login Limit customize per user (see menu).
-<br>★ Webmin installed version 1.970 [up to date]
+<br>✔ Automatic delete expired user account
+<br>✔ Automatic update OHP and Python Socks in every changes port in SSH and other services.
+<br>✔ Customize OHP and Python Socks [ Change Port, On or Off ]
+<br>✔ Webmin installed version 1.970 [updated]
+<br>✔ Automatic disconnect multilogin users [except in Openvpn].
+⠀<br>⠀⠀⠀⠀⠀⠀★Multi-login Limit customize per user (see menu).
+<br>✔ Automatic applied rules in Iptables in every reboot and changes ports.
+<br>⠀⠀⠀⠀⠀⠀⠀Rules: Protection for torrent and other abusive use.
+<br>⠀⠀⠀⠀⠀⠀⠀★ Torrent Protection [ add newest torrent port]
+<br>⠀⠀⠀⠀⠀⠀⠀★ Port Scanner Basic Protection
+<br>⠀⠀⠀⠀⠀⠀⠀★ Brute Force Attack Basic Protection
 <br>
 <br>How to access V2Ray Panel:
-<br>Go to your browser and type: http://your-ip-address-vps:65432
+<br>Go to your browser and enter this link:
+<br>⠀⠀⠀⠀⠀⠀⠀》http://123.123.123.123:65432
+<br>Note: Change 123.123.123.123 to your VPS IP Address
 <br>Username: admin | Password: admin
 <br>
 <br>Note: Panel Settings not working.
-<br>Change Panel Port through VPS Menu if you don't others to access your Panel.
+<br>Change Panel Port through VPS Menu if you don't want others access your Panel.
 <br>
 <br>How to access OCS Panel and OVPN Config:
 <br>Go to your browser and enter this link:
-<br>http://123.123.123.123:85
-<br>Change 123.123.123.123 to your VPS IP Address
+<br>⠀⠀⠀⠀⠀⠀⠀》http://123.123.123.123:85
+<br>Note: Change 123.123.123.123 to your VPS IP Address
 <br>
+<br>Note:
 <br>To Enable OCS Panel, you must edit the index.php | Directory Path: /home/vps/public_html/index.php
 <br>Put your root password in Line 45 of /home/vps/public_html/index.php
 <br>
-<br>Version 2.3.2 Changelog:
-<br>Fix bugs in openvpn monitoring.
-<br>Added Support for Ubuntu Distros.
 
