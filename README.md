@@ -89,6 +89,11 @@ wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-ubuntu && chmod +x ./
  <img src="https://phcorner.net/attachments/1613383892218-png.1302954/" width=300 height=450 >
 </p>
 
+# Version 2.3.3 Changelog:
+1. OCS Panel error in Ubuntu 20 already fix.
+2. Fix stunnel editing error in Edit Port.
+3. Ensure Apache2 will be remove after installation | To make sure Port 80 and 443 are free.
+
 ## Contact Me:
 
 For other inquiries contact me at these site below:
