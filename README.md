@@ -51,16 +51,15 @@ WaGo-G 🔥
   </p>
 
 <h3 align="left">Installation:</h3>
-## For Debian:
+  </p>
+#  For Debian
 
 ```sh
 sudo su
 wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-debian && chmod +x ./fog-debian && ./fog-debian
 ```
 
- sudo su
-<br>2. wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-debian && chmod +x ./fog-debian && ./fog-debian
-<br>
+
 <br>For Ubuntu:
 <br>1. sudo su
 <br>2. wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-ubuntu && chmod +x ./fog-ubuntu && ./fog-ubuntu
