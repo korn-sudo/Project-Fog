@@ -42,26 +42,26 @@ Currently these are applications already installed:
 
 
 >_Iptables Rules are protection from torrent and other abusive use._
->_ Torrent Protection [ add newest torrent port]._
->_ Port Scanner Basic Protection._
->_ Brute Force Attack Basic Protection._
+> Torrent Protection [ add newest torrent port].
+> Port Scanner Basic Protection.
+> Brute Force Attack Basic Protection.
 
 How to access V2Ray Panel:
 Go to your browser and enter this link: 
->http://123.123.123.123:65432
+>_http://123.123.123.123:65432_
 
 Note: Change 123.123.123.123 to your VPS IP Address
 Username: admin | Password: admin
 
 How to access OCS Panel and OVPN Config:
 Go to your browser and enter this link: 
->http://123.123.123.123:85
+>_http://123.123.123.123:85_
 
 Note: Change 123.123.123.123 to your VPS IP Address
 
 To Enable OCS Panel, you must edit the index.php 
 Put your root password in Line 45 of this directory:
->/home/vps/public_html/index.php
+>_/home/vps/public_html/index.php_
 
 
 ## Installation
@@ -78,6 +78,12 @@ For Ubuntu Distro:
 sudo su
 wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-ubuntu && chmod +x ./fog-ubuntu && ./fog-ubuntu
 ```
+<h3 align="center">Screenshots</h3>
+<p align="center">
+<img src="https://phcorner.net/attachments/1613046228263-png.1297707/" width=300 height=450 >
+<img src="https://phcorner.net/attachments/screenshot_20210211-183356_chrome-jpg.1297712/" width=300 height=450 >
+ <img src="https://phcorner.net/attachments/1613383892218-png.1302954/" width=300 height=450 >
+</p>
 
 ## Contact Me:
 
