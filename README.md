@@ -92,9 +92,9 @@ For other inquiries contact me at these site below:
 
 ## Development
 
-Want to contribute? Great!
+Want to contribute or donate? Great!
 
-Currently I do not have any VPS or server. It would great if you spare some of yours VPS or server.
+Currently I do not have any VPS or server. It would be great if you spare some of yours VPS or server to continue this project.
 
 
    [git-repo-url]: <https://github.com/joemccann/dillinger.git>
