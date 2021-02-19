@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=korn-sudo&color=green)
+
 <h1 align="center">☁️☁️☁️ Project Fog ☁️☁️☁️ </h1>
  <p align="center"> <img src="https://img.shields.io/badge/Version-2.3.3-pink.svg" </p>
 <br>  
@@ -50,8 +51,14 @@ WaGo-G 🔥
   </p>
 
 <h3 align="left">Installation:</h3>
-For Debian:
-<br>1. sudo su
+## For Debian:
+
+```sh
+sudo su
+wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-debian && chmod +x ./fog-debian && ./fog-debian
+```
+
+ sudo su
 <br>2. wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-debian && chmod +x ./fog-debian && ./fog-debian
 <br>
 <br>For Ubuntu:
