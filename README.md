@@ -85,9 +85,9 @@ For other inquiries contact me at these site below:
 
 | Sites | |
 | ------ | ------ |
-| Facebook | [www.facebook.com/kornips][PlDb] |
-| PHCorner | [www.phcorner.net/members/blackestsaint.455497/][PlGh] |
-| Telegram | [https://t.me/blackestsaint][PlGd] |
+| Facebook | www.facebook.com/kornips |
+| PHCorner | www.phcorner.net/members/blackestsaint.455497/|
+| Telegram | https://t.me/blackestsaint |
 
 
 ## Development
