@@ -1,107 +1,125 @@
+# ☁️ Project Fog 
+
+_Project Fog is VPS AutoScript for Debian and Ubuntu Distros.
+Contains pre-installed tunneling application. Read below all supported application._
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid) 
 ![](https://komarev.com/ghpvc/?username=korn-sudo&color=green)
 
-<h1 align="center">☁️☁️☁️ Project Fog ☁️☁️☁️ </h1>
- <p align="center"> <img src="https://img.shields.io/badge/Version-2.3.3-pink.svg" </p>
-<br>  
+## Supported Distros:
 
-<p align="center">
-Project Fog is VPS AutoScript for Debian and Ubuntu Distros. 
-<br> Contains pre-installed tunneling application. Read below all supported application.
-  </p>
-  <br>  
-  
-<p align="center">
-  Credits to:
-PHC-Ford [FordSenpai] 🐱 |
-Bon-chan 🦢 |
-lfasmpao 🐯 |
-ADM-Manager 🐬 |
-Sprov 🌤️ |
-WaGo-G 🔥
-  </p>
+- Ubuntu 18+
+- Debian 9+
 
-<h3 align="center">Supported Linux Distro:</h3>
-<p align="center">
-  <a><img src="https://img.shields.io/badge/Support-Debian%209-red.svg"></a>
-  <a><img src="https://img.shields.io/badge/Support-Debian 10-red.svg"></a>
-  <a><img src="https://img.shields.io/badge/Support-Ubuntu 18-blue.svg"></a>
-  <a><img src="https://img.shields.io/badge/Support-Ubuntu 20-blue.svg"></a>
-</p>
+## Services
 
-<h3 align="center">Services</h3>
-<p align="center">
-  <a><img src="https://img.shields.io/badge/Service-OpenSSH-green.svg" ></a>
-  <a><img src="https://img.shields.io/badge/Service-Dropbear-green.svg"></a>
-  <a><img src="https://img.shields.io/badge/Service-Stunnel-green.svg"></a>
-  <a><img src="https://img.shields.io/badge/Service-OpenVPN TCP-green.svg"></a>
-  <a><img src="https://img.shields.io/badge/Service-OpenVPN UDP-green.svg"></a>
- <a><img src="https://img.shields.io/badge/Service-Squid3-green.svg"></a>
-  <p align="center">
-  <a><img src="https://img.shields.io/badge/Service-Privoxy-green.svg"></a>
-  <a><img src="https://img.shields.io/badge/Service-OHP-green.svg"></a>
-  <a><img src="https://img.shields.io/badge/Service-Python Socks Proxy-green.svg"></a>
-  <a><img src="https://img.shields.io/badge/Service-Shadowsocks-green.svg"></a>
-  <a><img src="https://img.shields.io/badge/Service-V2Ray-green.svg"></a>
-   <a><img src="https://img.shields.io/badge/Service-OCS Panel-green.svg"></a>
-  </p>
-  
-<h3 align="center">Commands</h3>
-<p align="center">
-   <a><img src="https://img.shields.io/badge/ Commands:-menu-yellow.svg"></a>
-  </p>
+Currently these are applications already installed:
 
-<h3 align="left">Installation:</h3>
-  </p>
-#  For Debian
+- OpenSSH
+- Dropbear
+- Stunnel
+- OpenVPN TCP
+- OpenVPN UDP
+- Squid3
+- Privoxy
+- OHP [ Over-HTTP-Puncher]
+- Python Socks Proxy
+- Shadowsocks
+- V2Ray Panel
+- OCS Panel
+
+
+## Features
+
+- Automatic delete expired user account
+- Automatic update OHP and Python Socks in every changes port in SSH and other services.
+- Customize OHP and Python Socks [ Change Port, On or Off ]
+- Webmin installed version 1.970 [updated]
+- Automatic disconnect multilogin users [except in Openvpn].
+              Multi-login Limit customize per user (see menu).
+- Automatic applied rules in Iptables in every reboot and changes ports.
+
+
+>Iptables Rules are protection from torrent and other abusive use.
+>Torrent Protection [ add newest torrent port]
+>Port Scanner Basic Protection
+>Brute Force Attack Basic Protection
+
+How to access V2Ray Panel:
+Go to your browser and enter this link: 
+>http://123.123.123.123:65432
+
+Note: Change 123.123.123.123 to your VPS IP Address
+Username: admin | Password: admin
+
+How to access OCS Panel and OVPN Config:
+Go to your browser and enter this link: 
+>http://123.123.123.123:85
+
+Note: Change 123.123.123.123 to your VPS IP Address
+
+To Enable OCS Panel, you must edit the index.php 
+Put your root password in Line 45 of this directory:
+>/home/vps/public_html/index.php
+
+
+
+
+
+This text you see here is *actually- written in Markdown! To get a feel
+for Markdown's syntax, type some text into the left window and
+watch the results in the right.
+
+
+
+## Installation
+
+
+For Debian Distro:
 
 ```sh
 sudo su
 wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-debian && chmod +x ./fog-debian && ./fog-debian
 ```
+For Ubuntu Distro:
+```sh
+sudo su
+wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-ubuntu && chmod +x ./fog-ubuntu && ./fog-ubuntu
+```
+
+## Contact Me:
+
+For other inquiries contact me at these site below:
+
+| Sites | |
+| ------ | ------ |
+| Facebook | [www.facebook.com/kornips][PlDb] |
+| PHCorner | [www.phcorner.net/members/blackestsaint.455497/][PlGh] |
+| Telegram | [https://t.me/blackestsaint][PlGd] |
 
 
-<br>For Ubuntu:
-<br>1. sudo su
-<br>2. wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-ubuntu && chmod +x ./fog-ubuntu && ./fog-ubuntu
+## Development
+
+Want to contribute? Great!
+
+Currently I do not have any VPS or server. It would great if you spare some of yours VPS or server.
 
 
-<h3 align="center">Screenshots</h3>
-<p align="center">
-<img src="https://phcorner.net/attachments/1613046228263-png.1297707/" width=300 height=600 >
-<img src="https://phcorner.net/attachments/screenshot_20210211-183356_chrome-jpg.1297712/" width=300 height=600 >
- <img src="https://phcorner.net/attachments/1613383892218-png.1302954/" width=300 height=600 >
-</p>
+   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
+   [john gruber]: <http://daringfireball.net>
+   [df1]: <http://daringfireball.net/projects/markdown/>
+   [markdown-it]: <https://github.com/markdown-it/markdown-it>
+   [Ace Editor]: <http://ace.ajax.org>
+   [node.js]: <http://nodejs.org>
+   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
+   [jQuery]: <http://jquery.com>
+   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
+   [express]: <http://expressjs.com>
+   [AngularJS]: <http://angularjs.org>
+   [Gulp]: <http://gulpjs.com>
 
-<br>
-<br>Features:
-<br>✔ Automatic delete expired user account
-<br>✔ Automatic update OHP and Python Socks in every changes port in SSH and other services.
-<br>✔ Customize OHP and Python Socks [ Change Port, On or Off ]
-<br>✔ Webmin installed version 1.970 [updated]
-<br>✔ Automatic disconnect multilogin users [except in Openvpn].
-⠀<br>⠀⠀⠀⠀⠀⠀★Multi-login Limit customize per user (see menu).
-<br>✔ Automatic applied rules in Iptables in every reboot and changes ports.
-<br>⠀⠀⠀⠀⠀⠀⠀Rules: Protection for torrent and other abusive use.
-<br>⠀⠀⠀⠀⠀⠀⠀★ Torrent Protection [ add newest torrent port]
-<br>⠀⠀⠀⠀⠀⠀⠀★ Port Scanner Basic Protection
-<br>⠀⠀⠀⠀⠀⠀⠀★ Brute Force Attack Basic Protection
-<br>
-<br>How to access V2Ray Panel:
-<br>Go to your browser and enter this link:
-<br>⠀⠀⠀⠀⠀⠀⠀》http://123.123.123.123:65432
-<br>Note: Change 123.123.123.123 to your VPS IP Address
-<br>Username: admin | Password: admin
-<br>
-<br>Note: Panel Settings not working.
-<br>Change Panel Port through VPS Menu if you don't want others access your Panel.
-<br>
-<br>How to access OCS Panel and OVPN Config:
-<br>Go to your browser and enter this link:
-<br>⠀⠀⠀⠀⠀⠀⠀》http://123.123.123.123:85
-<br>Note: Change 123.123.123.123 to your VPS IP Address
-<br>
-<br>Note:
-<br>To Enable OCS Panel, you must edit the index.php | Directory Path: /home/vps/public_html/index.php
-<br>Put your root password in Line 45 of /home/vps/public_html/index.php
-<br>
-
+   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
+   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
+   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
+   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
+   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
+   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
