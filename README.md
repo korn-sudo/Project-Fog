@@ -2,7 +2,9 @@
 
 _Project Fog is VPS AutoScript for Debian and Ubuntu Distros.
 Contains pre-installed tunneling application. Read below all supported application._
+
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid) 
+
 ![](https://komarev.com/ghpvc/?username=korn-sudo&color=green)
 
 ## Supported Distros:
