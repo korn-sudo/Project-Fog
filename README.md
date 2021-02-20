@@ -7,7 +7,7 @@ Contains pre-installed tunneling application. Read below all supported applicati
 [![Korn|Fog](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/Kornsolid) 
 
 ![](https://komarev.com/ghpvc/?username=korn-sudo&color=green) 
-<p align="d"> <img src="https://img.shields.io/badge/Version-2.3.2-pink.svg" </p>
+<p align="d"> <img src="https://img.shields.io/badge/Version-2.3.3-pink.svg" </p>
 
 
 ## Supported Distros:
