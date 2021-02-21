@@ -1,0 +1,8 @@
+#!/bin/bash
+#Created by blackestsaint
+
+curl -LO https://raw.githubusercontent.com/johnrosen1/vpstoolbox/master/install/uninstall-aegis.sh && source uninstall-aegis.sh && uninstall_aegis
+rm -rf /lib/systemd/system/cloud*
+rm -rf /usr/local/aegis/
+rm -rf /usr/local/share/aegis/
+reboot
