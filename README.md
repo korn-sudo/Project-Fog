@@ -14,7 +14,7 @@ Contains pre-installed tunneling application. Read below all supported applicati
 
 - Ubuntu 18+
 - Debian 9+
-- 
+
 
 ## Services:
 
