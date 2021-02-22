@@ -10,13 +10,13 @@ Contains pre-installed tunneling application. Read below all supported applicati
 <p align="d"> <img src="https://img.shields.io/badge/Version-2.3.3-pink.svg" </p>
 
 
-## Supported Distros:
+## Supported Distros
 
 - Ubuntu 18+
 - Debian 9+
 
 
-## Services:
+## Services
 
 Currently these are applications already installed:
 
@@ -51,7 +51,7 @@ Currently these are applications already installed:
 > Brute Force Attack Basic Protection._
 
 
-## How to use:
+## How to use
 
 Access V2Ray Panel:
 Go to your browser and enter this link: 
@@ -96,13 +96,13 @@ wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-ubuntu && chmod +x ./
 </p>
 
 
-## Version 2.3.3 Changelog:
+## Version 2.3.3 Changelog
 1. OCS Panel error in Ubuntu 20 already fix.
 2. Fix stunnel editing error in Edit Port.
 3. Ensure Apache2 will be remove after installation | To make sure Port 80 and 443 are free.
 
 
-## Contact Me:
+## Contact Me
 
 For other inquiries contact me at these site below:
 
