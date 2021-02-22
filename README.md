@@ -70,8 +70,8 @@ To Enable OCS Panel, you must edit the index.php
 Put your root password in Line 45 of this directory:
 >_/home/vps/public_html/index.php_
 
-
-## Command: _menu_
+To access all commands, type this in your vps / server: 
+>_menu_
 
 
 ## Installation
