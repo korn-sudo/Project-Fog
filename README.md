@@ -14,8 +14,9 @@ Contains pre-installed tunneling application. Read below all supported applicati
 
 - Ubuntu 18+
 - Debian 9+
+- 
 
-## Services
+## Services:
 
 Currently these are applications already installed:
 
@@ -49,6 +50,9 @@ Currently these are applications already installed:
 > Port Scanner Basic Protection.
 > Brute Force Attack Basic Protection._
 
+
+## Instructions:
+
 How to access V2Ray Panel:
 Go to your browser and enter this link: 
 >_http://123.123.123.123:65432_
@@ -66,7 +70,9 @@ To Enable OCS Panel, you must edit the index.php
 Put your root password in Line 45 of this directory:
 >_/home/vps/public_html/index.php_
 
+
 ## Command: _menu_
+
 
 ## Installation
 
@@ -89,10 +95,12 @@ wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-ubuntu && chmod +x ./
  <img src="https://phcorner.net/attachments/1613383892218-png.1302954/" width=250 height=400 >
 </p>
 
+
 ## Version 2.3.3 Changelog:
 1. OCS Panel error in Ubuntu 20 already fix.
 2. Fix stunnel editing error in Edit Port.
 3. Ensure Apache2 will be remove after installation | To make sure Port 80 and 443 are free.
+
 
 ## Contact Me:
 
@@ -103,6 +111,7 @@ For other inquiries contact me at these site below:
 | Facebook | www.facebook.com/kornips |
 | PHCorner | www.phcorner.net/members/blackestsaint.455497/|
 | Telegram | https://t.me/blackestsaint |
+
 
 
 ## Development
