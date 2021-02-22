@@ -51,26 +51,26 @@ Currently these are applications already installed:
 > Brute Force Attack Basic Protection._
 
 
-## Instructions:
+## How to use:
 
-How to access V2Ray Panel:
+Access V2Ray Panel:
 Go to your browser and enter this link: 
 >_http://123.123.123.123:65432_
 
 Note: Change 123.123.123.123 to your VPS IP Address
 Username: admin | Password: admin
 
-How to access OCS Panel and OVPN Config:
+Access OCS Panel and OVPN Config:
 Go to your browser and enter this link: 
 >_http://123.123.123.123:85_
 
 Note: Change 123.123.123.123 to your VPS IP Address
 
-To Enable OCS Panel, you must edit the index.php 
+Enable OCS Panel : Edit the index.php 
 Put your root password in Line 45 of this directory:
 >_/home/vps/public_html/index.php_
 
-To access all commands, type this in your vps / server: 
+Access all commands, type this in vps / server: 
 >_menu_
 
 
