@@ -33,6 +33,7 @@ Currently these are applications already installed:
 - V2Ray Panel
 - OCS Panel
 - Openvpn Monitoring
+- V2Ray UUID Manager
 
 
 ## Features
