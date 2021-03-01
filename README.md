@@ -7,7 +7,7 @@ Contains pre-installed tunneling application. Read below all supported applicati
 [![Korn|Fog](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/Kornsolid) 
 
 ![](https://komarev.com/ghpvc/?username=korn-sudo&color=green) 
-<p align="d"> <img src="https://img.shields.io/badge/Version-2.3.3-pink.svg" </p>
+<p align="d"> <img src="https://img.shields.io/badge/Version-2.4.0-pink.svg" </p>
 
 
 ## Supported Distros
@@ -32,6 +32,7 @@ Currently these are applications already installed:
 - Shadowsocks
 - V2Ray Panel
 - OCS Panel
+- Openvpn Monitoring
 
 
 ## Features
@@ -96,10 +97,9 @@ wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-ubuntu && chmod +x ./
 </p>
 
 
-## Version 2.3.3 Changelog
-1. OCS Panel error in Ubuntu 20 already fix.
-2. Fix stunnel editing error in Edit Port.
-3. Ensure Apache2 will be remove after installation | To make sure Port 80 and 443 are free.
+## Version 2.4.0 Changelog
+1. OCS Panel error in creating account already fix.
+2. Add V2Ray UUID Manager | credits and created by PHC_JAYVEE
 
 
 ## Contact Me
@@ -119,6 +119,15 @@ For other inquiries contact me at these site below:
 Want to contribute or donate? Great!
 
 Currently I do not have any VPS or server. It would be great if you spare some of yours VPS or server to continue this project.
+
+<br>
+<br>
+
+##### _Credits to:_
+_PHC - Ford | Bon-Chan | lfasmpao | ADM-Manager | Sprov | WaGo-G and PHC_JAYVEE_
+
+##### _Special Thanks to:_
+_mhieqoh06, xFocus and Squid_
 
 
    [git-repo-url]: <https://github.com/joemccann/dillinger.git>
