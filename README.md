@@ -125,10 +125,10 @@ Currently I do not have any VPS or server. It would be great if you spare some o
 <br>
 
 ##### _Credits to:_
-_PHC - Ford | Bon-Chan | lfasmpao | ADM-Manager | Sprov | WaGo-G and PHC_JAYVEE_
+##### _PHC - Ford | Bon-Chan | lfasmpao | ADM-Manager | Sprov | WaGo-G and PHC_JAYVEE_
 
 ##### _Special Thanks to:_
-_mhieqoh06, xFocus and Squid_
+##### _mhieqoh06, xFocus and Squid_
 
 
    [git-repo-url]: <https://github.com/joemccann/dillinger.git>
