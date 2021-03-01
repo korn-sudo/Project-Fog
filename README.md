@@ -100,7 +100,7 @@ wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-ubuntu && chmod +x ./
 
 ## Version 2.4.0 Changelog
 1. OCS Panel error in creating account already fix.
-2. Add V2Ray UUID Manager | credits and created by PHC_JAYVEE
+
 
 
 ## Contact Me
