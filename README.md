@@ -7,7 +7,7 @@ Contains pre-installed tunneling application. Read below all supported applicati
 [![Korn|Fog](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/Kornsolid) 
 
 ![](https://komarev.com/ghpvc/?username=korn-sudo&color=green) 
-<p align="d"> <img src="https://img.shields.io/badge/Version-2.4.0-pink.svg" </p>
+<p align="d"> <img src="https://img.shields.io/badge/Version-2.4.1-pink.svg" </p>
 
 
 ## Supported Distros
@@ -98,8 +98,9 @@ wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-ubuntu && chmod +x ./
 </p>
 
 
-## Version 2.4.0 Changelog
-1. OCS Panel error in creating account already fix.
+## Version 2.4.1 Changelog
+1. Fix stuck in "Configuring Webmin..."
+2. Update Webmin Version from 1.970 to 1.979
 
 
 
