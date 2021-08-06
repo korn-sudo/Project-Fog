@@ -98,6 +98,15 @@ wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-ubuntu && chmod +x ./
 </p>
 
 
+<br>
+<br>
+
+## Note:
+_After Server reboot, always wait 30seconds to 1minute to load all tunneling software and to apply all IPTABLES rules._
+<br>
+<br>
+
+
 ## Version 2.4.1 Changelog
 1. Fix stuck in "Configuring Webmin..."
 2. Update Webmin Version from 1.970 to 1.979
