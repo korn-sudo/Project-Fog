@@ -1,4 +1,4 @@
-# ☁️ Project Fog 
+# ☁️ Project Fog v2.4.1
 
 
 _Project Fog is VPS AutoScript for Debian and Ubuntu Distros.
