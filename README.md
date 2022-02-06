@@ -143,7 +143,7 @@ For other inquiries contact me at these site below:
 <br>
 <br>
 
-##### _Credits to: PHC - Ford | Bon-Chan | lfasmpao | ADM-Manager | Sprov | WaGo-G and PHC_JAYVEE_
+##### _Credits to: PHC - Ford | Bon-Chan | lfasmpao | ADM-Manager | vaxilu | WaGo-G and PHC_JAYVEE_
 ##### _Special Thanks to: mhieqoh06, xFocus and Squid_
 
 
