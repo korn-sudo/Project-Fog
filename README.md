@@ -1,8 +1,7 @@
-# ☁️ Project Fog v2.4.1 ☁️
+# ☁️ Project Fog v2.5 ☁️
 
 
-_Project Fog is VPS AutoScript for Debian and Ubuntu Distros.
-Contains pre-installed tunneling application. Read below all supported application._
+_Project Fog is a VPS AutoScript for Ubuntu and Debian Distros. Comes with pre-installed tunneling software. See below for a list of pre-installed programs._
 
 [![Korn|Fog](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/Kornsolid) 
 
@@ -12,14 +11,13 @@ Contains pre-installed tunneling application. Read below all supported applicati
 
 ## Supported Distros
 
-- Ubuntu 18+
-- Debian 9+
+- Ubuntu 18. 20 and above.
+- Debian 9, 10, 11, and above.
 
 
 ## Services
 
-Currently these are applications already installed:
-
+Currently, these are already installed applications:
 - OpenSSH
 - Dropbear
 - Stunnel
@@ -38,26 +36,23 @@ Currently these are applications already installed:
 
 ## Features
 
-- Automatic delete expired user account
-- Automatic update OHP and Python Socks in every changes port in SSH and other services.
-- Customize OHP and Python Socks [ Change Port, On or Off ]
-- Webmin installed version 1.970 [updated]
-- Automatic disconnect multilogin users [except in Openvpn].
-              Multi-login Limit customize per user (see menu).
-- Automatic applied rules in Iptables in every reboot and changes ports.
-
-
->_Iptables Rules are protection from torrent and other abusive use.
-> Torrent Protection [ add newest torrent port].
-> Port Scanner Basic Protection.
-> Brute Force Attack Basic Protection._
-
+1. Delete expired user accounts automatically
+2. Every time SSH or other services change the port, OHP and Python Socks are automatically updated.
+3. Customize OHP and Python Socks [ Change Port, On or Off ]
+4. Webmin installed version 1.984 [updated]
+5. Disconnecting multi-login users automatically [except in Openvpn and V2ray].
+6. Multi-login Limit customized per user (see menu).
+-When rebooting and changing ports, Iptables rules are automatically applied.
+-IPtables is already configured to protect against torrents and other abusive uses.
+-Torrent Protection [ add newest torrent port].
+-Port Scanner Basic Protection.
+-Brute Force Attack Basic Protection.
 
 ## How to use
 
-Access V2Ray Panel:
+V2Ray Panel:
 Go to your browser and enter this link: 
->_http://123.123.123.123:65432_
+>_http://123.123.123.123:5431_
 
 Note: Change 123.123.123.123 to your VPS IP Address
 Username: admin | Password: admin
@@ -101,15 +96,35 @@ wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-ubuntu && chmod +x ./
 <br>
 <br>
 
-## Note:
-_After Server reboot, always wait 30seconds to 1minute to load all tunneling software and to apply all IPTABLES rules._
+## Important Note:
+_Wait 30 seconds to 1 minute after a server reboot to load all tunneling software and to apply all IPTABLES rules_
 <br>
 <br>
 
 
-## Version 2.4.1 Changelog
-1. Fix stuck in "Configuring Webmin..."
-2. Update Webmin Version from 1.970 to 1.979
+## Project Fog v2.5 Changelog:
+1. Update Webmin from version:1.979 to version:1.984.
+2. Fixed V2ray Panel not working issue. This issue has been resolved.
+    Added VLESS+XTLS Xray
+3. Fixed OCS Panel not working issue. This issue has been resolved.
+4. Fixes compatibility issues with Debian 11+
+5. Fixed compatibility issue with Ubuntu 20+
+
+
+## Known Bugs:
+*V2ray Panel settings do not work.
+     -If you are worried about not being able to change your user and password, then the only option is to change the Panel Port.  Although it isn't enough, it is the only option.
+
+## How to change Panel Port Settings: 
+1. Access your virtual private server from your terminal
+2. Type "menu" > "12" > "6"
+
+
+
+## Development:​
+Want to contribute or donate? Great!
+
+I do not currently have a VPS or server. I would appreciate it if you could spare some of yours so that this project can continue.
 
 
 
@@ -124,12 +139,6 @@ For other inquiries contact me at these site below:
 | Telegram | https://t.me/blackestsaint |
 
 
-
-## Development
-
-Want to contribute or donate? Great!
-
-Currently I do not have any VPS or server. It would be great if you spare some of yours VPS or server to continue this project.
 
 <br>
 <br>
