@@ -42,11 +42,11 @@ Currently, these are already installed applications:
 4. Webmin installed version 1.984 [updated]
 5. Disconnecting multi-login users automatically [except in Openvpn and V2ray].
 6. Multi-login Limit customized per user (see menu).
--When rebooting and changing ports, Iptables rules are automatically applied.
--IPtables is already configured to protect against torrents and other abusive uses.
--Torrent Protection [ add newest torrent port].
--Port Scanner Basic Protection.
--Brute Force Attack Basic Protection.
+7. When rebooting and changing ports, Iptables rules are automatically applied.
+8. IPtables is already configured to protect against torrents and other abusive uses.
+9. Torrent Protection [ add newest torrent port].
+10. Port Scanner Basic Protection.
+11. Brute Force Attack Basic Protection.
 
 ## How to use
 
