@@ -116,18 +116,20 @@ _Wait 30 seconds to 1 minute after a server reboot to load all tunneling softwar
 <br>
 
 
-## Project Fog v2.5 Changelog:
+## Project Fog v2.5.3 Changelog:
 1. Update Webmin from version:1.979 to version:1.984.
 2. Fixed V2ray Panel not working issue. This issue has been resolved.
     Added VLESS+XTLS Xray
 3. Fixed OCS Panel not working issue. This issue has been resolved.
 4. Fixes compatibility issues with Debian 11+
 5. Fixed compatibility issue with Ubuntu 20+
+6. V2ray Config created has the option to have an expiry date or a data limit.
+7. Add "Change Username and Password" in V2ray Menu.
 
 
 ## Known Bugs:
 *V2ray Panel settings do not work.
-     -If you are worried about not being able to change your user and password, then go to your vps/server terminal. Type 'menu > 12 > 15 to change username and password.
+     -You can change username and password in vps/server terminal, type "menu" > "12" > "15" to change it.​
 
 
 ## Development:​
