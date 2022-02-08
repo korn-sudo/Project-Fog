@@ -18,33 +18,33 @@ _Project Fog is a VPS AutoScript for Ubuntu and Debian Distros. Comes with pre-i
 ## Services
 
 Currently, these are already installed applications:
--OpenSSH​
--Dropbear​
--OpenVPN TCP​
--OpenVPN UDP​
--Squid3​
--Privoxy​
--Shadowsocks​
--V2Ray Panel​
--OCS Panel​
--Openvpn Monitoring​
--Badvpn​
--Webmin​
--Cerbot [ Generate and Revoke Cert ]​
--Stunnel​
-  -SSL through SSH
-  -SSL through Dropbear
-  -SSl through Openvpn
--OHP [ Over-HTTP-Puncher]​
-  with User Interface:
-  -OHP through Squid Proxy
-  -OHP through Privoxy
-  -OHP through Openvpn
--Python Socks Proxy​
-  with User Interface:
-  -Simple Socks Proxy
-  -Direct Socks Proxy
-  -Openvpn Socks Proxy
+1. OpenSSH​
+2. Dropbear​
+3. OpenVPN TCP​
+4. OpenVPN UDP​
+5. Squid3​
+6. Privoxy​
+7. Shadowsocks​
+8. V2Ray Panel​
+9. OCS Panel​
+10. Openvpn Monitoring​
+11. Badvpn​
+12. Webmin​
+13. Cerbot [ Generate and Revoke Cert ]​
+14. Stunnel​
+  [a. SSL through SSH]
+  [b. SSL through Dropbear]
+  [c. SSl through Openvpn]
+15. OHP [ Over-HTTP-Puncher]​
+    with User Interface:
+  [a. OHP through Squid Proxy]
+  [b. OHP through Privoxy]
+ [ c. OHP through Openvpn]
+16. Python Socks Proxy​
+   with User Interface:
+ [ a. Simple Socks Proxy]
+ [ b. Direct Socks Proxy]
+ [ c. Openvpn Socks Proxy]
 
 
 
