@@ -127,12 +127,7 @@ _Wait 30 seconds to 1 minute after a server reboot to load all tunneling softwar
 
 ## Known Bugs:
 *V2ray Panel settings do not work.
-     -If you are worried about not being able to change your user and password, then the only option is to change the Panel Port.  Although it isn't enough, it is the only option.
-
-## How to change Panel Port Settings: 
-1. Access your virtual private server from your terminal
-2. Type "menu" > "12" > "6"
-
+     -If you are worried about not being able to change your user and password, then go to your vps/server terminal. Type 'menu > 12 > 15 to change username and password.
 
 
 ## Development:​
