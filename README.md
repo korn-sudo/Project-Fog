@@ -97,7 +97,7 @@ wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/deb255 &&
 For Ubuntu Distro:
 ```sh
 sudo su
-wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-ubuntu && chmod +x ./fog-ubuntu && ./fog-ubuntu
+wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/ub255 && chmod +x ./ub255 && ./ub255
 ```
 <h3 align="center">Screenshots</h3>
 <p align="center">
