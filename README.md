@@ -1,4 +1,4 @@
-# ☁️ Project Fog v2.5.3 ☁️
+# ☁️ Project Fog v2.5.5 ☁️
 
 
 _Project Fog is a VPS AutoScript for Ubuntu and Debian Distros. Comes with pre-installed tunneling software. See below for a list of pre-installed programs._
@@ -92,7 +92,7 @@ For Debian Distro:
 
 ```sh
 sudo su
-wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-debian && chmod +x ./fog-debian && ./fog-debian
+wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/deb255 && chmod +x ./deb255 && ./deb255
 ```
 For Ubuntu Distro:
 ```sh
