@@ -1,4 +1,4 @@
-# ☁️ Project Fog v2.5.5 ☁️
+# ☁️ Project Fog v2.5.6 ☁️
 
 
 _Project Fog is a VPS AutoScript for Ubuntu and Debian Distros. Comes with pre-installed tunneling software. See below for a list of pre-installed programs._
