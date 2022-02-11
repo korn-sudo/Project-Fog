@@ -87,18 +87,11 @@ Access all commands, type this in vps / server:
 
 ## Installation
 
-
-For Debian Distro:
-
 ```sh
 sudo su
-wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/deb255 && chmod +x ./deb255 && ./deb255
+wget https://github.com/korn-sudo/Project-Fog/raw/main/projectfog && chmod +x ./projectfog && ./projectfog
 ```
-For Ubuntu Distro:
-```sh
-sudo su
-wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/ub255 && chmod +x ./ub255 && ./ub255
-```
+
 <h3 align="center">Screenshots</h3>
 <p align="center">
 <img src="https://phcorner.net/attachments/screenshot_20210301-133445_termius-jpg.1322528/" width=250 height=400 >
@@ -128,6 +121,30 @@ _Wait 30 seconds to 1 minute after a server reboot to load all tunneling softwar
 9. Added "Change Username and Password" in V2ray Menu.
 10. Optimize Autoscript commands.
 
+## Project Fog v2.5.6 Changelog:
+1. Resolved the issue where Openvpn Monitoring was not working in higher versions of Ubuntu(version20) and Debian(version11).
+2. Universal Installer [It will install a Project Fog stable version compatible with the OS and version of your VPS]
+
+You can manually install the right version for your VPS if the Universal Installer fails.
+Here:
+```sh
+#Use this only if universal installer fails. See: Installation (for Universal Installer)
+#Debian 9 and Debian 10:
+sudo su
+wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/deb255 && chmod +x ./deb255 && ./deb255
+
+#Debian 11 and higher:
+sudo su
+wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/deb256 && chmod +x ./deb256 && ./deb256
+
+#Ubuntu 18:
+sudo su
+wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/ub255 && chmod +x ./ub255 && ./ub255
+
+#Ubuntu 20 and higher:
+sudo su
+wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/ub256 && chmod +x ./ub256 && ./ub256
+```
 
 ## Known Bugs:
 *V2ray Panel settings do not work.
