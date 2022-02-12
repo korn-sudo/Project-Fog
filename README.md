@@ -1,13 +1,11 @@
+
 # ☁️ Project Fog v2.5.6 ☁️
 
-
-_Project Fog is a VPS AutoScript for Ubuntu and Debian Distros. Comes with pre-installed tunneling software. See below for a list of pre-installed programs._
+Project Fog is a VPS AutoScript for Ubuntu and Debian Distros. Comes with pre-installed tunneling software. See below for a list of pre-installed programs.
 
 [![Korn|Fog](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/Kornsolid) 
 
 ![](https://komarev.com/ghpvc/?username=korn-sudo&color=green) 
-
-
 
 ## Supported Distros
 
@@ -15,165 +13,164 @@ _Project Fog is a VPS AutoScript for Ubuntu and Debian Distros. Comes with pre-i
 - Debian 9, 10, 11, and above.
 
 
+## Installation
+
+_It will install the version of Project Fog that is compatible with your VPS's operating system and version._
+
+```bash
+  sudo su
+  wget https://github.com/korn-sudo/Project-Fog/raw/main/projectfog && chmod +x ./projectfog && ./projectfog
+```
+    
 ## Services
-
-Currently, these are already installed applications:
-1. OpenSSH​
-2. Dropbear​
-3. OpenVPN TCP​
-4. OpenVPN UDP​
-5. Squid3​
-6. Privoxy​
-7. Shadowsocks​
-8. V2Ray Panel​
-9. OCS Panel​
-10. Openvpn Monitoring​
-11. Badvpn​
-12. Webmin​
-13. Cerbot [ Generate and Revoke Cert ]​
-14. Stunnel​
-  [a. SSL through SSH]
-  [b. SSL through Dropbear]
-  [c. SSl through Openvpn]
-15. OHP [ Over-HTTP-Puncher]​
-    with User Interface:
-  [a. OHP through Squid Proxy]
-  [b. OHP through Privoxy]
- [ c. OHP through Openvpn]
-16. Python Socks Proxy​
-   with User Interface:
- [ a. Simple Socks Proxy]
- [ b. Direct Socks Proxy]
- [ c. Openvpn Socks Proxy]
-
+ - OpenSSH​
+- Dropbear​
+- OpenVPN TCP​
+- OpenVPN UDP​
+- Squid3​
+- Privoxy​
+- Shadowsocks​
+- V2Ray Panel​
+- OCS Panel​
+- Openvpn Monitoring​
+- Badvpn​
+- Webmin​
+- Cerbot [ Generate and Revoke Cert ]​
+- Stunnel​
+  - SSL through SSH
+  - SSL through Dropbear
+  - SSl through Openvpn
+- OHP [ Over-HTTP-Puncher]​
+   - OHP through Squid Proxy
+   - OHP through Privoxy
+   - OHP through Openvpn
+- Python Socks Proxy​
+   with User Interface:  
+   - Simple Socks Proxy
+   - Direct Socks Proxy​
+  - Openvpn Socks Proxy
 
 
 ## Features
 
-1. Delete expired user accounts automatically
-2. Every time SSH or other services change the port, OHP and Python Socks are automatically updated.
-3. Customize OHP and Python Socks [ Change Port, On or Off ]
-4. Webmin installed version 1.984 [updated]
-5. Disconnecting multi-login users automatically [except in Openvpn and V2ray].
-6. Multi-login Limit customized per user (see menu).
-7. When rebooting and changing ports, Iptables rules are automatically applied.
-8. IPtables is already configured to protect against torrents and other abusive uses.
-9. Torrent Protection [ add newest torrent port].
-10. Port Scanner Basic Protection.
-11. Brute Force Attack Basic Protection.
-
-## How to use
-
-V2Ray Panel:
-Go to your browser and enter this link: 
->_http://123.123.123.123:5431_
-
-Note: Change 123.123.123.123 to your VPS IP Address
-Username: admin | Password: admin
-
-Access OCS Panel and OVPN Config:
-Go to your browser and enter this link: 
->_http://123.123.123.123:85_
-
-Note: Change 123.123.123.123 to your VPS IP Address
-
-Enable OCS Panel : Edit the index.php 
-Put your root password in Line 45 of this directory:
->_/home/vps/public_html/index.php_
-
-Access all commands, type this in vps / server: 
->_menu_
+- Delete expired user accounts automatically
+- Every time SSH or other services change the port, OHP and Python Socks are automatically updated.
+- Customize OHP and Python Socks [ Change Port, On or Off ]
+- Disconnecting multi-login users automatically [except in Openvpn and V2ray].
+- Multi-login Limit customized per user (see menu).
+- When rebooting and changing ports, Iptables rules are automatically applied.
+- IPtables is already configured to protect against torrents and other abusive uses.
+- Torrent Protection [ add newest torrent port].
+- Port Scanner Basic Protection.
+- Brute Force Attack Basic Protection.
 
 
-## Installation
+## Guide
 
-```sh
-sudo su
-wget https://github.com/korn-sudo/Project-Fog/raw/main/projectfog && chmod +x ./projectfog && ./projectfog
+#### How to access V2Ray Panel:
+
+```http
+  http://123.123.123.123:5431
+  Note: Change 123.123.123.123 to your VPS IP Address
+  ```
+
+#### V2ray Default User and Password
+| Username | Password    | 
+| :-------- | :------- | 
+| `admin` | `admin` | 
+
+
+#### OCS Panel and OVPN Config
+
+```http
+ http://123.123.123.123:85
+ Note: Change 123.123.123.123 to your VPS IP Address
 ```
 
-<h3 align="center">Screenshots</h3>
-<p align="center">
-<img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/fog.png/">
-</p>
+#### Activate OCS Panel Account Maker:
+ Edit the index.php Put your root password in Line 45 of this directory:
+
+```http
+ /home/vps/public_html/index.php
+ Go to Line 45.
+```
+
+#### Important Notes:
+```http
+Wait 30 seconds to 1 minute after a server reboot to load all tunneling software and to apply all IPTABLES rules
+```
+
+## Command: menu
+_Use this to access Project Menu_
 
 
-<br>
-<br>
-
-## Important Note:
-_Wait 30 seconds to 1 minute after a server reboot to load all tunneling software and to apply all IPTABLES rules_
-<br>
-<br>
 
 
-## Project Fog v2.5.5 Changelog:
-1. Fixed OCS Panel not working issue. This issue has been resolved.
-2. Fixed V2ray Panel not working issue. This issue has been resolved.
-3. Fixed not working commands in V2ray Menu.
-4. Fixed Apache2 occupying port 80.
-5. Fixed compatibility issues with Debian 11+
-6. Fixed compatibility issue with Ubuntu 20+
-7. Update Webmin from version:1.979 to version:1.984.
-8. Added Expiry Date and Data Limit option per V2ray config created
-9. Added "Change Username and Password" in V2ray Menu.
-10. Optimize Autoscript commands.
 
-## Project Fog v2.5.6 Changelog:
-1. Resolved the issue where Openvpn Monitoring was not working in higher versions of Ubuntu(version20) and Debian(version11).
-2. Universal Installer [It will install a Project Fog stable version compatible with the OS and version of your VPS]
 
-You can manually install the right version for your VPS if the Universal Installer fails.
-Here:
-```sh
-#Use this only if universal installer fails. See: Installation (for Universal Installer)
-#Debian 9 and Debian 10:
+## Screenshots
+
+![App Screenshot](https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/fog.png/)
+
+
+##  Changelog
+#### version 2.5.5
+- Fixed OCS Panel not working issue. This issue has been resolved.
+- Fixed V2ray Panel not working issue. This issue has been resolved.
+- Fixed not working commands in V2ray Menu.
+- Fixed Apache2 occupying port 80.
+- Fixed compatibility issues with Debian 11+
+- Fixed compatibility issue with Ubuntu 20+
+- Update Webmin from version:1.979 to version:1.984.
+- Added Expiry Date and Data Limit option per V2ray config created
+- Added "Change Username and Password" in V2ray Menu.
+- Optimize Autoscript commands.
+#### version 2.5.6
+- Resolved the issue where Openvpn Monitoring was not working in higher versions of Ubuntu(version20) and Debian(version11).
+- Universal Installer `It will install a Project Fog stable version compatible with the OS and version of your VPS`
+
+_Use this only if universal installer fails. See: Installation (for Universal Installer)_
+
+`Debian 9 and Debian 10:`
+```http
 sudo su
 wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/deb255 && chmod +x ./deb255 && ./deb255
-
-#Debian 11 and higher:
+```
+`Debian 11 and higher:`
+```http
 sudo su
 wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/deb256 && chmod +x ./deb256 && ./deb256
-
-#Ubuntu 18:
+```
+`Ubuntu 18:`
+```http
 sudo su
 wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/ub255 && chmod +x ./ub255 && ./ub255
-
-#Ubuntu 20 and higher:
+```
+`Ubuntu 20 and higher:`
+```http
 sudo su
 wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/ub256 && chmod +x ./ub256 && ./ub256
 ```
+### Known Bugs
+V2ray Panel settings do not work. -You can change username and password in vps/server terminal.
 
-## Known Bugs:
-*V2ray Panel settings do not work.
-     -You can change username and password in vps/server terminal, type "menu" > "12" > "15" to change it.​
-
-
-## Development:​
-Want to contribute or donate? Great!
-
-I do not currently have a VPS or server. I would appreciate it if you could spare some of yours so that this project can continue.
+`input: "menu" > "12" > "15" to change it.`
 
 
+## Author
 
-## Contact Me
-
-For other inquiries contact me at these site below:
-
-| Sites | |
-| ------ | ------ |
-| Facebook | www.facebook.com/kornips |
-| PHCorner | www.phcorner.net/members/blackestsaint.455497/|
-| Telegram | https://t.me/blackestsaint |
+_If you have any feedback, please reach me out:_
+- _www.facebook.com/kornip_
+- _www.phcorner.net/members/blackestsaint.455497/_
+- _https://t.me/blackestsaint_
 
 
+`Do you want to contribute or donate? 
+Great! I do not currently have a VPS or server. I would appreciate it if you could spare some of yours so that this project can continue.`
 
-<br>
-<br>
 
 ##### _Credits to: PHC - Ford | Bon-Chan | lfasmpao | ADM-Manager | vaxilu | WaGo-G and PHC_JAYVEE_
 ##### _Special Thanks to: mhieqoh06, xFocus and Squid_
-
 
    [git-repo-url]: <https://github.com/joemccann/dillinger.git>
    [john gruber]: <http://daringfireball.net>
