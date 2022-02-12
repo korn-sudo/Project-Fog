@@ -1,4 +1,5 @@
 
+
 # ☁️ Project Fog v2.5.6 ☁️
 
 Project Fog is a VPS AutoScript for Ubuntu and Debian Distros. Comes with pre-installed tunneling software. See below for a list of pre-installed programs.
@@ -167,8 +168,15 @@ _If you have any feedback, please reach me out:_
 Great! I do not currently have a VPS or server. I would appreciate it if you could spare some of yours so that this project can continue.`
 
 
-##### _Credits to: PHC - Ford | Bon-Chan | lfasmpao | ADM-Manager | vaxilu | WaGo-G and PHC_JAYVEE_
-##### _Special Thanks to: mhieqoh06, xFocus and Squid_
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/76937659/153705961-79f5a170-5563-4f90-9423-f45c7011ac3f.gif" width="200" height="180" /> 
+</p>
+
+
+<p align="center"> Credits to: PHC - Ford | Bon-Chan | lfasmpao | ADM-Manager | vaxilu | WaGo-G and PHC_JAYVEE_  </p>
+<p align="center"> Special Thanks to: mhieqoh06, xFocus and Squid_  </p>
+
 
    [git-repo-url]: <https://github.com/joemccann/dillinger.git>
    [john gruber]: <http://daringfireball.net>
