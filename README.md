@@ -159,7 +159,7 @@ V2ray Panel settings do not work. -You can change username and password in vps/s
 ## Author
 
 _If you have any feedback, please reach me out:_
-- _www.facebook.com/kornip_
+- _www.facebook.com/kornips_
 - _www.phcorner.net/members/blackestsaint.455497/_
 - _https://t.me/blackestsaint_
 
