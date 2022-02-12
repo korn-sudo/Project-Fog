@@ -96,9 +96,9 @@ _It will install the version of Project Fog that is compatible with your VPS's o
 ```
 
 #### Important Notes:
-```http
+`
 Wait 30 seconds to 1 minute after a server reboot to load all tunneling software and to apply all IPTABLES rules
-```
+`
 
 ## Command: menu
 _Use this to access Project Menu_
@@ -129,28 +129,15 @@ _Use this to access Project Menu_
 - Resolved the issue where Openvpn Monitoring was not working in higher versions of Ubuntu(version20) and Debian(version11).
 - Universal Installer `It will install a Project Fog stable version compatible with the OS and version of your VPS`
 
-_Use this only if universal installer fails. See: Installation (for Universal Installer)_
 
-`Debian 9 and Debian 10:`
-```http
-sudo su
-wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/deb255 && chmod +x ./deb255 && ./deb255
-```
-`Debian 11 and higher:`
-```http
-sudo su
-wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/deb256 && chmod +x ./deb256 && ./deb256
-```
-`Ubuntu 18:`
-```http
-sudo su
-wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/ub255 && chmod +x ./ub255 && ./ub255
-```
-`Ubuntu 20 and higher:`
-```http
-sudo su
-wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/ub256 && chmod +x ./ub256 && ./ub256
-```
+|  |
+| :------- | 
+| _Use this only if universal installer fails. See: Installation (for Universal Installer)_ | 
+| `Debian 9 and Debian 10: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/deb255 && chmod +x ./deb255 && ./deb255` | 
+| `Debian 11 and higher: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/deb256 && chmod +x ./deb256 && ./deb256` |
+| `Ubuntu 18: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/ub255 && chmod +x ./ub255 && ./ub255` | 
+| `Ubuntu 20 and higher: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/ub256 && chmod +x ./ub256 && ./ub256` |
+
 ### Known Bugs
 V2ray Panel settings do not work. -You can change username and password in vps/server terminal.
 
