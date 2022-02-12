@@ -13,14 +13,25 @@ Project Fog is a VPS AutoScript for Ubuntu and Debian Distros. Comes with pre-in
 - Debian 9, 10, 11, and above.
 
 ###
+
 ## Installation
 
 _It will install the version of Project Fog that is compatible with your VPS's operating system and version._
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76937659/153705486-44e6c1b2-74fa-4d44-be1c-36c8fdb83331.gif"/>
+</p>
 
 ```bash
   sudo su
   wget https://github.com/korn-sudo/Project-Fog/raw/main/projectfog && chmod +x ./projectfog && ./projectfog
 ```
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76937659/153705486-44e6c1b2-74fa-4d44-be1c-36c8fdb83331.gif"/>
+</p>
+
+
     
 ## Services
  - OpenSSH​
