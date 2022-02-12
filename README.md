@@ -69,10 +69,10 @@ _It will install the version of Project Fog that is compatible with your VPS's o
 
 #### How to access V2Ray Panel:
 
-```http
+`
   http://123.123.123.123:5431
   Note: Change 123.123.123.123 to your VPS IP Address
-  ```
+  `
 
 #### V2ray Default User and Password
 | Username | Password    | 
@@ -82,18 +82,18 @@ _It will install the version of Project Fog that is compatible with your VPS's o
 
 #### OCS Panel and OVPN Config
 
-```http
+`
  http://123.123.123.123:85
  Note: Change 123.123.123.123 to your VPS IP Address
-```
+`
 
 #### Activate OCS Panel Account Maker:
  Edit the index.php Put your root password in Line 45 of this directory:
 
-```http
+`
  /home/vps/public_html/index.php
  Go to Line 45.
-```
+`
 
 #### Important Notes:
 `
@@ -101,7 +101,7 @@ Wait 30 seconds to 1 minute after a server reboot to load all tunneling software
 `
 
 ## Command: menu
-_Use this to access Project Menu_
+_Use this to access Project Fog Menu through vps terminal_
 
 
 
