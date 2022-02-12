@@ -2,10 +2,7 @@
 ☁️☁️☁️ Project Fog ☁️☁️☁️
        Debian Distro
      
-     
-
-           
-Project Fog v2.5.5 Changelog:
+ Version 2.5.5​
 1. Fixed OCS Panel not working issue. This issue has been resolved.
 2. Fixed V2ray Panel not working issue. This issue has been resolved.
 3. Fixed not working commands in V2ray Menu.
@@ -17,7 +14,9 @@ Project Fog v2.5.5 Changelog:
 9. Added "Change Username and Password" in V2ray Menu.
 10. Optimize Autoscript commands.
 
-   
+Version 2.5.6​
+1. Resolved the issue where Openvpn Monitoring was not working in higher versions of Ubuntu(version20) and Debian(version11).
+2. Universal Installer [It will install a Project Fog stable version compatible with the OS and version of your VPS]
 
       
 Thank you,
