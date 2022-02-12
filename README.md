@@ -94,7 +94,7 @@ wget https://github.com/korn-sudo/Project-Fog/raw/main/projectfog && chmod +x ./
 
 <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/projectfog.jpg/">
+<img src="https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/fog.png/">
 </p>
 
 
