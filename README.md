@@ -6,13 +6,13 @@ Project Fog is a VPS AutoScript for Ubuntu and Debian Distros. Comes with pre-in
 [![Korn|Fog](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/Kornsolid) 
 
 ![](https://komarev.com/ghpvc/?username=korn-sudo&color=green) 
-
+###
 ## Supported Distros
 
 - Ubuntu 18. 20 and above.
 - Debian 9, 10, 11, and above.
 
-
+###
 ## Installation
 
 _It will install the version of Project Fog that is compatible with your VPS's operating system and version._
@@ -102,7 +102,7 @@ Wait 30 seconds to 1 minute after a server reboot to load all tunneling software
 
 ## Command: menu
 _Use this to access Project Fog Menu through vps terminal_
-
+#
 
 
 
