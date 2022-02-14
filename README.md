@@ -83,10 +83,10 @@ _It will install the version of Project Fog that is compatible with your VPS's o
 
 #### How to access V2Ray Panel:
 
-`
-  http://123.123.123.123:5431
+
+ >http://123.123.123.123:5431
   Note: Change 123.123.123.123 to your VPS IP Address
-  `
+  
 
 #### V2ray Default User and Password
 | Username | Password    | 
@@ -96,23 +96,23 @@ _It will install the version of Project Fog that is compatible with your VPS's o
 
 #### OCS Panel and OVPN Config
 
-`
- http://123.123.123.123:85
+
+> http://123.123.123.123:85
  Note: Change 123.123.123.123 to your VPS IP Address
-`
+
 
 #### Activate OCS Panel Account Maker:
  Edit the index.php Put your root password in Line 45 of this directory:
 
-`
- /home/vps/public_html/index.php
+
+ >/home/vps/public_html/index.php
  Go to Line 45.
-`
+
 
 #### Important Notes:
-`
-Wait 30 seconds to 1 minute after a server reboot to load all tunneling software and to apply all IPTABLES rules
-`
+
+>_Wait 30 seconds to 1 minute after a server reboot to load all tunneling software and to apply all IPTABLES rules_
+
 
 ## Command: menu
 _Use this to access Project Fog Menu through vps terminal_
@@ -132,8 +132,8 @@ _Use this to access Project Fog Menu through vps terminal_
 #### version 3.0
 - Removed Python Shadowsocks 
 - Added Shadowsocks Installer
-  - Shadowsocks Version: libev | shadowsocks-rust | go-shadowsocks2
-  - Plugins included: v2ray-plugin, xray-plugin and many more . . .
+  - _Shadowsocks Version: libev | shadowsocks-rust | go-shadowsocks2_
+  - _Plugins included: v2ray-plugin, xray-plugin and many more . . ._
   `all credits to loyess'
 -  1-tap installation of Shadowsocks with Xray Plugin, all credits to Min3 for detailed steps.
 -  Added Shadowsocks Menu (check your vps terminal and type: menu > 13)
@@ -159,16 +159,16 @@ _Use this to access Project Fog Menu through vps terminal_
 
 |  |
 | :------- | 
-| _Use this only if universal installer fails. See: Installation (for Universal Installer)_ | 
-| `Debian 9 and Debian 10: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/debv30a && chmod +x ./debv30a && ./debv30a` | 
-| `Debian 11 and higher: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/debv30b && chmod +x ./debv30b && ./debv30b` |
-| `Ubuntu 18: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/ubv30a && chmod +x ./ubv30a && ./ubv30a` | 
-| `Ubuntu 20 and higher: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/ubv30b && chmod +x ./ubv30b && ./ubv30b` |
+| <p align="center">_Use this only if universal installer fails. See: Installation (for Universal Installer)_   </p> | 
+| Debian 9 and Debian 10: _wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/debv30a && chmod +x ./debv30a && ./debv30a_ | 
+| Debian 11 and higher: _wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/debv30b && chmod +x ./debv30b && ./debv30b_ |
+| Ubuntu 18: _wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/ubv30a && chmod +x ./ubv30a && ./ubv30a_ | 
+| Ubuntu 20 and higher: _wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/ubv30b && chmod +x ./ubv30b && ./ubv30b_ |
 
 ### Known Bugs
 V2ray Panel settings do not work. -You can change username and password in vps/server terminal.
 
-`input: "menu" > "12" > "15" to change it.`
+>_input: "menu" > "12" > "15" to change it._
 
 
 
@@ -178,10 +178,10 @@ _If you have any feedback, please reach me out:_
 - _www.facebook.com/kornips_
 - _www.phcorner.net/members/blackestsaint.455497/_
 - _https://t.me/blackestsaint_
+  
 
-
-`Do you want to contribute or donate? 
-Great! I do not currently have a VPS or server. I would appreciate it if you could spare some of yours so that this project can continue.`
+>_Do you want to contribute or donate? 
+Great! I do not currently have a VPS or server. I would appreciate it if you could spare some of yours so that this project can continue._
 
 
 
@@ -190,8 +190,8 @@ Great! I do not currently have a VPS or server. I would appreciate it if you cou
 </p>
 
 
-<p align="center"> Credits to: PHC - Ford | Bon-Chan | lfasmpao | ADM-Manager | vaxilu | Min3 | loyess | WaGo-G and PHC_JAYVEE_  </p>
-<p align="center"> Special Thanks to: mhieqoh06, xFocus and Squid_  </p>
+   <p align="center"> Credits to: PHC - Ford | Bon-Chan | lfasmpao | ADM-Manager | vaxilu | Min3 | loyess | WaGo-G and PHC_JAYVEE_  </p>   
+  <p align="center"> Special Thanks to: mhieqoh06, xFocus and Squid  </p>
 
 
    [git-repo-url]: <https://github.com/joemccann/dillinger.git>
