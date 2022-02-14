@@ -188,7 +188,7 @@ Great! I do not currently have a VPS or server. I would appreciate it if you cou
 </p>
 
 
-<p align="center"> Credits to: PHC - Ford | Bon-Chan | lfasmpao | ADM-Manager | vaxilu | WaGo-G and PHC_JAYVEE_  </p>
+<p align="center"> Credits to: PHC - Ford | Bon-Chan | lfasmpao | ADM-Manager | vaxilu | Min3 | loyess| WaGo-G and PHC_JAYVEE_  </p>
 <p align="center"> Special Thanks to: mhieqoh06, xFocus and Squid_  </p>
 
 
