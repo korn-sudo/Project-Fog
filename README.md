@@ -1,6 +1,6 @@
 
 
-# ☁️ Project Fog v2.5.6 ☁️
+# ☁️ Project Fog version 3.0 ☁️
 
 Project Fog is a VPS AutoScript for Ubuntu and Debian Distros. Comes with pre-installed tunneling software. See below for a list of pre-installed programs.
 
@@ -41,13 +41,15 @@ _It will install the version of Project Fog that is compatible with your VPS's o
 - OpenVPN UDP​
 - Squid3​
 - Privoxy​
-- Shadowsocks​
 - V2Ray Panel​
 - OCS Panel​
 - Openvpn Monitoring​
 - Badvpn​
 - Webmin​
 - Cerbot [ Generate and Revoke Cert ]​
+- Shadowsocks​
+  - Shadowsocks Version: libev | shadowsocks-rust | go-shadowsocks2 
+  - Plugins included: v2ray-plugin, xray-plugin and many more . . .
 - Stunnel​
   - SSL through SSH
   - SSL through Dropbear
@@ -122,7 +124,7 @@ _Use this to access Project Fog Menu through vps terminal_
 
 ## Screenshots
 
-![App Screenshot](https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/fog.png/)
+![App Screenshot](https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/v3screenshots.png/)
 
 
 ##  Changelog
@@ -141,19 +143,31 @@ _Use this to access Project Fog Menu through vps terminal_
 - Resolved the issue where Openvpn Monitoring was not working in higher versions of Ubuntu(version20) and Debian(version11).
 - Universal Installer `It will install a Project Fog stable version compatible with the OS and version of your VPS`
 
+#### version 3.0
+- Removed Python Shadowsocks 
+- Added Shadowsocks Installer
+  - Shadowsocks Version: libev | shadowsocks-rust | go-shadowsocks2
+  - Plugins included: v2ray-plugin, xray-plugin and many more . . .
+  `all credits to loyess'
+-  1-tap installation of Shadowsocks with Xray Plugin, all credits to Min3 for detailed steps.
+-  Added Shadowsocks Menu (check your vps terminal and type: menu > 13)
+-  Upgrade V2ray installation to prevent not working issues experienced in version 2.4 and to prevent possible same effect in versions 2.5 through 2.7.   
+-  Rainbow texts in the menu have been removed due to high CPU usage in some cases.
+
 
 |  |
 | :------- | 
 | _Use this only if universal installer fails. See: Installation (for Universal Installer)_ | 
-| `Debian 9 and Debian 10: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/deb255 && chmod +x ./deb255 && ./deb255` | 
-| `Debian 11 and higher: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/deb256 && chmod +x ./deb256 && ./deb256` |
-| `Ubuntu 18: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/ub255 && chmod +x ./ub255 && ./ub255` | 
-| `Ubuntu 20 and higher: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/ub256 && chmod +x ./ub256 && ./ub256` |
+| `Debian 9 and Debian 10: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/debv30a && chmod +x ./debv30a && ./debv30a` | 
+| `Debian 11 and higher: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/debv30b && chmod +x ./debv30b && ./debv30b` |
+| `Ubuntu 18: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/ubv30a && chmod +x ./ubv30a && ./ubv30a` | 
+| `Ubuntu 20 and higher: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/ubv30b && chmod +x ./ubv30b && ./ubv30b` |
 
 ### Known Bugs
 V2ray Panel settings do not work. -You can change username and password in vps/server terminal.
 
 `input: "menu" > "12" > "15" to change it.`
+
 
 
 ## Author
