@@ -84,7 +84,7 @@ _It will install the version of Project Fog that is compatible with your VPS's o
 #### How to access V2Ray Panel:
 
 
- >http://123.123.123.123:5431
+ >http://123.123.123.123:54321
   Note: Change 123.123.123.123 to your VPS IP Address
   
 
