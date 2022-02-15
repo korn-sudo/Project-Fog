@@ -1,20 +1,28 @@
-Infomation:
+                                       Infomation:
 
-These folder is compilation of stable version of Project Fog.
-Choose what suits for you.
+                 These folder is compilation of stable version of Project Fog.
+                                 Choose what suits for you.
 
-"deb255"
-Debian Version 2.5.5 for Debian 10 and lower version
+                                RECOMMENDED VERSION:
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-"deb256"
-Debian Version 2.5.6 for Debian 10 and higher version
+"debv301a"
+Debian Version 3.01 for Debian 10 and lower version
 
-"ub255"
-Ubuntu Version 2.5.5 for Ubuntu 18
+"dev301b"
+Debian Version 3.01 for Debian 10 and higher version
 
-"ub256"
-Ubuntu Version 2.5.6 fro Ubuntu 20 and higher version.
+"ubv301a"
+Ubuntu Version 3.01 for Ubuntu 18
 
+"ubv301b"
+Ubuntu Version 3.01 fOR Ubuntu 20 and higher version.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+                                      OLD VERSION
+___________________________________________________________________________________________
 "debv30a"
 Debian Version 3 for Debian 10 and lower version
 
@@ -22,12 +30,18 @@ Debian Version 3 for Debian 10 and lower version
 Debian Version 3 for Debian 10 and higher version
 
 "ubv30a"
-Ubuntu Version 2.5.5 for Ubuntu 18
+Ubuntu Version 3 for Ubuntu 18
 
 "ubv30b"
+Ubuntu Version 3 foR Ubuntu 20 and higher version.
+___________________________________________________________________________________________
+"deb256"
+Debian Version 2.5.6 for Debian 10 and higher version
+
+"ub256"
 Ubuntu Version 2.5.6 fro Ubuntu 20 and higher version.
-
-
-
-Recommended:
-Use lastest version of Debian or Ubuntu.
+"deb255" 
+Debian Version 2.5.5 for Debian 10 and lower version
+"ub255"
+Ubuntu Version 2.5.5 for Ubuntu 18
+___________________________________________________________________________________________
