@@ -186,11 +186,11 @@ V2ray Panel settings do not work. -You can change username and password in vps/s
 >_If your concern is to change the default username and password, go to your VPS terminal, go to "menu" > "12" > "15"._
 3. How to access Webmin?
 >_your_ip_address:10000 | username: root | password: your-root-password_
-4. After reboot, some services not available.
+4.After reboot, some services are not available.
 >_Yes, Wait 30 seconds to 1 minute after a server reboot to load all tunneling software and to apply all IPTABLES rules._
-5. Multilogin not working.
+5. Multilogin Restriction not working.
 >_It will not work in v2ray, shadowsocks openvpn and IPSec. 
-6. Universal Installer not work.
+6. Universal Installer does not work.
 >_Install and choose the appropriate version for your vps already mentioned in the post._
 7. How to determine if it can block torrents. 
 >_The torrent restriction can be circumvented, but basic iptables rules are enough to block for normal users.
@@ -199,11 +199,11 @@ V2ray Panel settings do not work. -You can change username and password in vps/s
 ```bash
 iptables -L
 ```
-8. I cant access my vps.
+8. I can't access my vps.
 >_This happens if you forcefully attempt to login with a number of wrong passwords. It will then lock._
-9. Why you share this project in public?
+9.Why are you sharing this project with the public?
 >_Because I find it annoying when people sell scripts. Simple as that._
-10. Will you update your project always?
+10. Will you always update your project?
 >_No, After this version 3.01, I won't be able to update it since my virtual private server expired and I have a limited amount of time._
 
 
