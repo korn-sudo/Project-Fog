@@ -168,10 +168,10 @@ _Use this to access Project Fog Menu through vps terminal_
 |  |
 | :------- | 
 | <p align="center">_Use this only if universal installer fails. See: Installation (for Universal Installer)_   </p> | 
-| `Debian 9 & 10: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/debv30a && chmod +x ./debv30a && ./debv30a` | 
-| `Debian 11 or higher: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/debv30b && chmod +x ./debv30b && ./debv30b` |
-| `Ubuntu 18: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/ubv30a && chmod +x ./ubv30a && ./ubv30a` | 
-| `Ubuntu 20 or higher: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/ubv30b && chmod +x ./ubv30b && ./ubv30b` |
+| `Debian 9 & 10: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/debv301a && chmod +x ./debv301a && ./debv301a` | 
+| `Debian 11 or higher: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/debv301b && chmod +x ./debv301b && ./debv301b` |
+| `Ubuntu 18: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/ubv301a && chmod +x ./ubv301a && ./ubv301a` | 
+| `Ubuntu 20 or higher: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/ubv301b && chmod +x ./ubv301b && ./ubv301b` |
 
 ### Known Bugs
 V2ray Panel settings do not work. -You can change username and password in vps/server terminal.
