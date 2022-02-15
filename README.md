@@ -189,12 +189,12 @@ V2ray Panel settings do not work. -You can change username and password in vps/s
 4.After reboot, some services are not available.
 >_Yes, Wait 30 seconds to 1 minute after a server reboot to load all tunneling software and to apply all IPTABLES rules._
 5. Multilogin Restriction not working.
->_It will not work in v2ray, shadowsocks openvpn and IPSec. 
+>_It will not work in v2ray, shadowsocks openvpn and IPSec._
 6. Universal Installer does not work.
 >_Install and choose the appropriate version for your vps already mentioned in the post._
 7. How to determine if it can block torrents. 
 >_The torrent restriction can be circumvented, but basic iptables rules are enough to block for normal users.
->Make a simulation of it. Without doing anything. Just trying to access torrent sites, it blocked.
+>Make a simulation of it. Without doing anything. Just trying to access torrent sites, it blocked._
 >Check your VPS IPtable rules:
 ```bash
 iptables -L
