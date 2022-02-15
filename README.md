@@ -1,6 +1,6 @@
 
 
-# ☁️ Project Fog version 3.0 ☁️
+# ☁️ Project Fog version 3.01 ☁️
 
 Project Fog is a VPS AutoScript for Ubuntu and Debian Distros. Comes with pre-installed tunneling software. See below for a list of pre-installed programs.
 
@@ -39,6 +39,7 @@ _It will install the version of Project Fog that is compatible with your VPS's o
 - Dropbear​
 - OpenVPN TCP​
 - OpenVPN UDP​
+- L2TP/IPSec and IKE2 
 - Squid3​
 - Privoxy​
 - V2Ray Panel​
@@ -129,6 +130,13 @@ _Use this to access Project Fog Menu through vps terminal_
 
 ##  Changelog
 
+#### version 3.01
+- Removing Online Updates in menu.
+- Improve Shadowsocks User  Interface
+- Improve Webmin Installation, updating latest Webmin installer without touching autoscript.
+- Added L2TP/IPSec and IKE2 
+- Added User Interface for L2TP/IPSec and IKE2
+
 #### version 3.0
 - Removed Python Shadowsocks 
 - Added Shadowsocks Installer
@@ -190,7 +198,7 @@ Great! I do not currently have a VPS or server. I would appreciate it if you cou
 </p>
 
 
-   <p align="center"> Credits to: PHC - Ford | Bon-Chan | lfasmpao | ADM-Manager | vaxilu | Min3 | loyess | WaGo-G and PHC_JAYVEE_  </p>   
+   <p align="center"> Credits to: PHC - Ford | Bon-Chan | lfasmpao | ADM-Manager | vaxilu | Min3 | loyess | WaGo-G | Ling Song |and PHC_JAYVEE_  </p>   
   <p align="center"> Special Thanks to: mhieqoh06, xFocus and Squid  </p>
 
 
