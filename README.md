@@ -47,7 +47,8 @@ _It will install the version of Project Fog that is compatible with your VPS's o
 - Openvpn Monitoring​
 - Badvpn​
 - Webmin​
-- Cerbot [ Generate and Revoke Cert ]​
+- Cerbot
+    - _with User Interface: Generate , Renew and Revoke Certificate_
 - Shadowsocks​
   - Shadowsocks Version: libev | shadowsocks-rust | go-shadowsocks2 
   - Plugins included: v2ray-plugin, xray-plugin and many more . . .
