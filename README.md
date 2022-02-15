@@ -125,7 +125,7 @@ _Use this to access Project Fog Menu through vps terminal_
 
 ## Screenshots
 
-![App Screenshot](https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/v3screenshots.png/)
+![App Screenshot](https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/version3.01.png/)
 
 
 ##  Changelog
