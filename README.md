@@ -39,7 +39,7 @@ _It will install the version of Project Fog that is compatible with your VPS's o
 - Dropbear​
 - OpenVPN TCP​
 - OpenVPN UDP​
-- L2TP/IPSec and IKE2 
+- L2TP / IPSec and IKE2 
 - Squid3​
 - Privoxy​
 - V2Ray Panel​
@@ -135,8 +135,8 @@ _Use this to access Project Fog Menu through vps terminal_
 - Removing Online Updates in menu.
 - Improve Shadowsocks User  Interface
 - Improve Webmin Installation, updating latest Webmin installer without touching autoscript.
-- Added L2TP/IPSec and IKE2 
-- Added User Interface for L2TP/IPSec and IKE2
+- Added L2TP / IPSec and IKE2 
+- Added User Interface for L2TP / IPSec and IKE2
 
 #### version 3.0
 - Removed Python Shadowsocks 
