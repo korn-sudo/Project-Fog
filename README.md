@@ -38,7 +38,7 @@ _It will install the version of Project Fog that is compatible with your VPS's o
 </p>
 
 
-_The version can be manually chosen for your virtual private server if universal installation fails._ See [Project Fog Versions](docs/fog-versions.md).
+_The version can be manually chosen for your virtual private server if universal installation fails._ See [_Project Fog Versions_](docs/fog-versions.md).
 ##
 
 
@@ -91,13 +91,15 @@ _The version can be manually chosen for your virtual private server if universal
 
 #
 ## _Learn more about Project Fogs_
-- [Changelogs](docs/changelog.md)
-- [Guides](docs/how.md)
-- [Features](docs/features.md)
-- [Known Issues](docs/bugs.md)
-- [Frequently Asked Questions](docs/questions.md)
-- [Project Fog Versions](docs/fog-versions.md)
-- [Credits](docs/credits.md)
+- [_Project Fog Versions_](docs/fog-versions.md)
+- [_Changelogs_](docs/changelog.md)
+- [_Features_](docs/features.md)
+- [_Guides_](docs/how.md)
+- [_Project Fog Services Use Case_](uses.md)
+- [_Known Issues_](docs/bugs.md)
+- [_Frequently Asked Questions_](docs/questions.md)
+- [_Credits_](docs/credits.md)
+
 
 
 
@@ -106,7 +108,7 @@ _The version can be manually chosen for your virtual private server if universal
  _Great! I do not currently have a VPS or server. I would appreciate it if you could spare some of yours so that this project can continue._
  
  
- #### _The following people or organizations deserve credit for Project Fog._ [ See: [Credits](docs/credits.md) ]
+ #### _The following people or organizations deserve credit for Project Fog._ _[ See: [Credits](docs/credits.md) ]_
  
  #
  ## _Author_
