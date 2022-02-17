@@ -90,7 +90,7 @@ _The version can be manually chosen for your virtual private server if universal
 
 
 #
-## _Learn more about Project Fogs_
+## _Learn more about ☁️Project Fog☁️_
 - [_Project Fog Versions_](docs/fog-versions.md)
 - [_Changelogs_](docs/changelog.md)
 - [_Features_](docs/features.md)
