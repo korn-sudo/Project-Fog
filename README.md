@@ -7,11 +7,15 @@ Project Fog is a VPS AutoScript for Ubuntu and Debian Distros. Comes with pre-in
 [![Korn|Fog](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/Kornsolid) 
 
 ![](https://komarev.com/ghpvc/?username=korn-sudo&color=green) 
+
+
 ###
 ## Supported Distros
 
 - Ubuntu 18. 20 and above.
 - Debian 9, 10, 11, and above.
+
+
 
 ###
 
@@ -36,6 +40,14 @@ _It will install the version of Project Fog that is compatible with your VPS's o
 _The version can be manually chosen for your virtual private server if universal installation fails._ See [Project Fog Versions](docs/fog-versions.md).
 ##
 
+
+
+## Command: menu 
+`Use this to access Project Fog Menu through vps terminal`
+#
+
+    
+    
     
 ## Services
  - OpenSSH​
@@ -70,27 +82,10 @@ _The version can be manually chosen for your virtual private server if universal
   - Openvpn Socks Proxy
 
 
-## Features
-
-- Delete expired user accounts automatically
-- Every time SSH or other services change the port, OHP and Python Socks are automatically updated.
-- Customize OHP and Python Socks [ Change Port, On or Off ]
-- Disconnecting multi-login users automatically [except in Openvpn and V2ray].
-- Multi-login Limit customized per user (see menu).
-- When rebooting and changing ports, Iptables rules are automatically applied.
-- IPtables is already configured to protect against torrents and other abusive uses.
-- Torrent Protection [ add newest torrent port].
-- Port Scanner Basic Protection.
-- Brute Force Attack Basic Protection.
 
 
 
 
-
-
-## Command: menu
-_Use this to access Project Fog Menu through vps terminal_
-#
 
 
 
