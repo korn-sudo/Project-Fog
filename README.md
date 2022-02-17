@@ -33,6 +33,9 @@ _It will install the version of Project Fog that is compatible with your VPS's o
 </p>
 
 
+_The version can be manually chosen for your virtual private server if universal installation fails._ See [Project Fog Versions](docs/fog-versions.md).
+##
+
     
 ## Services
  - OpenSSH​
@@ -81,39 +84,8 @@ _It will install the version of Project Fog that is compatible with your VPS's o
 - Brute Force Attack Basic Protection.
 
 
-## Guide
-
-#### How to access V2Ray Panel:
 
 
- >http://123.123.123.123:54321
-  Note: Change 123.123.123.123 to your VPS IP Address
-  
-
-#### V2ray Default User and Password
-| Username | Password    | 
-| :-------- | :------- | 
-| `admin` | `admin` | 
-
-
-#### OCS Panel and OVPN Config
-
-
-> http://123.123.123.123:85
- Note: Change 123.123.123.123 to your VPS IP Address
-
-
-#### Activate OCS Panel Account Maker:
- Edit the index.php Put your root password in Line 45 of this directory:
-
-
- >/home/vps/public_html/index.php
- Go to Line 45.
-
-
-#### Important Notes:
-
->_Wait 30 seconds to 1 minute after a server reboot to load all tunneling software and to apply all IPTABLES rules_
 
 
 ## Command: menu
@@ -129,101 +101,10 @@ _Use this to access Project Fog Menu through vps terminal_
 ![App Screenshot](https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/version3.01.png/)
 
 
-##  Changelog
-
-#### version 3.01
-- Removing Online Updates in menu.
-- Improve Shadowsocks User  Interface
-- Improve Webmin Installation, updating latest Webmin installer without touching autoscript.
-- Added L2TP / IPSec PSK and IKE2 
-- Added User Interface for L2TP / IPSec PSK and IKE2
-
-#### version 3.0
-- Removed Python Shadowsocks 
-- Added Shadowsocks Installer
-  - _Shadowsocks Version: libev | shadowsocks-rust | go-shadowsocks2_
-  - _Plugins included: v2ray-plugin, xray-plugin and many more . . ._
-  `all credits to loyess'
--  1-tap installation of Shadowsocks with Xray Plugin, all credits to Min3 for detailed steps.
--  Added Shadowsocks Menu (check your vps terminal and type: menu > 13)
--  Upgrade V2ray installation to prevent not working issues experienced in version 2.4 and to prevent possible same effect in versions 2.5 through 2.7.   
--  Rainbow texts in the menu have been removed due to high CPU usage in some cases.
-#### version 2.5.6
-- Resolved the issue where Openvpn Monitoring was not working in higher versions of Ubuntu(version20) and Debian(version11).
-- Universal Installer `It will install a Project Fog stable version compatible with the OS and version of your VPS`
-#### version 2.5.5
-- Fixed OCS Panel not working issue. This issue has been resolved.
-- Fixed V2ray Panel not working issue. This issue has been resolved.
-- Fixed not working commands in V2ray Menu.
-- Fixed Apache2 occupying port 80.
-- Fixed compatibility issues with Debian 11+
-- Fixed compatibility issue with Ubuntu 20+
-- Update Webmin from version:1.979 to version:1.984.
-- Added Expiry Date and Data Limit option per V2ray config created
-- Added "Change Username and Password" in V2ray Menu.
-- Optimize Autoscript commands.
 
 
 
 
-|  |
-| :------- | 
-| <p align="center">_Use this only if universal installer fails. See: Installation (for Universal Installer)_   </p> | 
-| `Debian 9 & 10: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/debv301a && chmod +x ./debv301a && ./debv301a` | 
-| `Debian 11 or higher: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/debv301b && chmod +x ./debv301b && ./debv301b` |
-| `Ubuntu 18: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/ubv301a && chmod +x ./ubv301a && ./ubv301a` | 
-| `Ubuntu 20 or higher: wget https://github.com/korn-sudo/Project-Fog/raw/main/files/installer/ubv301b && chmod +x ./ubv301b && ./ubv301b` |
-
-### Known Bugs
-V2ray Panel settings do not work. -You can change username and password in vps/server terminal.
-
->_input: "menu" > "12" > "15" to change it._
-
-## Frequently Asked Questions
- 1. OCS Panel not working or cannot access the site.
->_OCS panel will not work if you install Shadowsocks or cancel the installation. Shadowsocks and OCS do not work together.
->If you want the OCS Panel back, go to "menu > "13" "3". This will bring back the OCS Panel settings._
-
-
-2. Cannot access V2ray Panel Settings.
->_If your concern is to change the default username and password, go to your VPS terminal, go to "menu" > "12" > "15"._
-
-
-3. How to access Webmin?
->_your_ip_address:10000 | username: root | password: your-root-password_
-
-
-4. After reboot, some services are not available.
->_Yes, Wait 30 seconds to 1 minute after a server reboot to load all tunneling software and to apply all IPTABLES rules._
-
-
-5. Multilogin Restriction not working.
->_It will not work in v2ray, shadowsocks openvpn and IPSec._
-
-
-6. Universal Installer does not work.
->_Install and choose the appropriate version for your vps already mentioned in the post._
-
-
-7. How to determine if it can block torrents. 
->_The torrent restriction can be circumvented, but basic iptables rules are enough to block for normal users.
->Make a simulation of it. Without doing anything. Just trying to access torrent sites, it blocked._
->Check your VPS IPtable rules:
-```bash
-iptables -L
-```
-
-
-8. I can't access my vps.
->_This happens if you forcefully attempt to login with a number of wrong passwords. It will then lock._
-
-
-9. Why are you sharing this project with the public?
->_Because I find it annoying when people sell scripts. Simple as that._
-
-
-10. Will you always update your project?
->_No, After this version 3.01, I won't be able to update it since my virtual private server expired and I have a limited amount of time._
 
 
 
