@@ -83,8 +83,6 @@ _The version can be manually chosen for your virtual private server if universal
    - _Openvpn Socks Proxy_
 
 
-
-
 ## Screenshots
 
 ![App Screenshot](https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/version3.01.png/)
@@ -99,33 +97,19 @@ _The version can be manually chosen for your virtual private server if universal
 - [Known Issues](docs/bugs.md)
 - [Frequently Asked Questions](docs/questions.md)
 - [Project Fog Versions](docs/fog-versions.md)
-
-#
-
-
-
-  
-
-<p align="center"> 
-</p>  
+- [Credits](docs/credits.md)
 
 
 
-
-
-
-   <p align="center"> Credits to: PHC - Ford | Bon-Chan | lfasmpao | ADM-Manager | Crazy_vpn | vaxilu | Min3 | loyess | WaGo-G | Ling Song |and PHC_JAYVEE_  </p>  
-   <p align="center"> Special Thanks to: mhieqoh06, xFocus and Squid  </p>
-  
-  
-  <p align="center">
- <img src="https://user-images.githubusercontent.com/76937659/153705961-79f5a170-5563-4f90-9423-f45c7011ac3f.gif" width="200" height="180" /> 
-</p>
-
-
-
-
-## _Author_
+## _Development_
+ #### Do you want to contribute or donate? 
+ _Great! I do not currently have a VPS or server. I would appreciate it if you could spare some of yours so that this project can continue._
+ 
+ 
+ #### _The following people or organizations deserve credit for Project Fog._ [ See: [Credits](docs/credits.md) ]
+ 
+ #
+ ## _Author_
 
 _If you have any feedback, please reach me out:_
 - _www.facebook.com/kornips_
@@ -133,9 +117,10 @@ _If you have any feedback, please reach me out:_
 - _https://t.me/blackestsaint_
 
 
+  <p align="center"> <img src="https://user-images.githubusercontent.com/76937659/153705961-79f5a170-5563-4f90-9423-f45c7011ac3f.gif" width="200" height="180" /> </p>
 
- #### Do you want to contribute or donate? 
- _Great! I do not currently have a VPS or server. I would appreciate it if you could spare some of yours so that this project can continue._
+
+ 
 #
 
    [git-repo-url]: <https://github.com/joemccann/dillinger.git>
