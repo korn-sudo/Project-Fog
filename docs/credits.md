@@ -1,9 +1,8 @@
 # ☁️ Project Fog version 3.01 ☁️
 
 
-### The following people or organizations deserve credit for Project Fog.
 
-#
+
 
 _We would like to thank the following people for their contributions._
 
