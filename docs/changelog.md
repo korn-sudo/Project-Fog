@@ -82,6 +82,8 @@
 #### version 1.0
 - First release! 
 
-
-#### version 0.9 below are very unstable and no public release.
+				
+				
+				
+			
 
