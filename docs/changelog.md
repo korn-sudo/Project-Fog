@@ -1,5 +1,7 @@
 # Changelog
 
+## Note: Versions not listed are not released to the public and are not stable. All versions released are stable and tested from the release date.
+
 #### version 3.01
 - Removing Online Updates in menu.
 - Improve Shadowsocks User  Interface
@@ -17,11 +19,13 @@
 -  Added Shadowsocks Menu (check your vps terminal and type: menu > 13)
 -  Upgrade V2ray installation to prevent not working issues experienced in version 2.4 and to prevent possible same effect in versions 2.5 through 2.7.   
 -  Rainbow texts in the menu have been removed due to high CPU usage in some cases.
--  
+-  Changes installation method so that old versions can be retained and can be installed.
+
 #### version 2.5.6
 - Resolved the issue where Openvpn Monitoring was not working in higher versions of Ubuntu(version20) and Debian(version11).
 - Universal Installer `It will install a Project Fog stable version compatible with the OS and version of your VPS`
-- 
+
+
 #### version 2.5.5
 - Fixed OCS Panel not working issue. This issue has been resolved.
 - Fixed V2ray Panel not working issue. This issue has been resolved.
@@ -72,9 +76,12 @@
 - Add V2ray Panel
 
 #### version 2.0
-Remake all commands and appearance.
-Fix tons of bugs!
+- Remake all commands and appearance.
+- Fix tons of bugs!
 
 #### version 1.0
 - First release! 
+
+
+
 
