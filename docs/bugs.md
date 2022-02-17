@@ -1,4 +1,4 @@
-# Known Bugs
+# Known Issues
 #
 1.Settings V2ray Panel not working. 
 
