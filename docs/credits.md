@@ -4,7 +4,7 @@
 
 
 ## _Full Credits to:_
-- #### _WaGo-G ( my friend from africa). This project will not be possible without you. Thank you so much._
+- ## _WaGo-G ( my friend from africa). The project would not be possible without you. Thank you so much for being there since version 1.0._
 
 ## _Credits to:_
 - #### _Bon-Chan_
