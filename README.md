@@ -84,21 +84,19 @@ _The version can be manually chosen for your virtual private server if universal
 
 
 
-
-
-
-
-
-
-
 ## Screenshots
 
 ![App Screenshot](https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/version3.01.png/)
 
 
 
-
-
+#
+## Learn more about Project Fogs
+- [Changelogs](docs/changelog.md)
+- [Guides](docs/how.md)
+- [Features](docs/features.md)
+- [Known Issues](docs/bugs.md)
+- [Frequently Asked Questions](docs/questions.md)
 
 
 
