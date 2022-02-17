@@ -95,7 +95,7 @@ _The version can be manually chosen for your virtual private server if universal
 - [_Changelogs_](docs/changelog.md)
 - [_Features_](docs/features.md)
 - [_Guides_](docs/how.md)
-- [_Project Fog Services Use Case_](uses.md)
+- [_Project Fog Services Use Case_](docs/uses.md)
 - [_Known Issues_](docs/bugs.md)
 - [_Frequently Asked Questions_](docs/questions.md)
 - [_Credits_](docs/credits.md)
