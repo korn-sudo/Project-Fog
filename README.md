@@ -100,6 +100,27 @@ _The version can be manually chosen for your virtual private server if universal
 - [Frequently Asked Questions](docs/questions.md)
 - [Project Fog Versions](docs/fog-versions.md)
 
+#
+
+
+
+  
+
+<p align="center"> 
+</p>  
+
+
+
+
+
+
+   <p align="center"> Credits to: PHC - Ford | Bon-Chan | lfasmpao | ADM-Manager | Crazy_vpn | vaxilu | Min3 | loyess | WaGo-G | Ling Song |and PHC_JAYVEE_  </p>  
+   <p align="center"> Special Thanks to: mhieqoh06, xFocus and Squid  </p>
+  
+  
+  <p align="center">
+ <img src="https://user-images.githubusercontent.com/76937659/153705961-79f5a170-5563-4f90-9423-f45c7011ac3f.gif" width="200" height="180" /> 
+</p>
 
 
 
@@ -110,21 +131,12 @@ _If you have any feedback, please reach me out:_
 - _www.facebook.com/kornips_
 - _www.phcorner.net/members/blackestsaint.455497/_
 - _https://t.me/blackestsaint_
-  
-
->_Do you want to contribute or donate? 
-Great! I do not currently have a VPS or server. I would appreciate it if you could spare some of yours so that this project can continue._
 
 
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/76937659/153705961-79f5a170-5563-4f90-9423-f45c7011ac3f.gif" width="200" height="180" /> 
-</p>
-
-
-   <p align="center"> Credits to: PHC - Ford | Bon-Chan | lfasmpao | ADM-Manager | Crazy_vpn | vaxilu | Min3 | loyess | WaGo-G | Ling Song |and PHC_JAYVEE_  </p>   
-  <p align="center"> Special Thanks to: mhieqoh06, xFocus and Squid  </p>
-
+ #### Do you want to contribute or donate? 
+ _Great! I do not currently have a VPS or server. I would appreciate it if you could spare some of yours so that this project can continue._
+#
 
    [git-repo-url]: <https://github.com/joemccann/dillinger.git>
    [john gruber]: <http://daringfireball.net>
