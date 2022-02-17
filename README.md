@@ -64,23 +64,23 @@ _The version can be manually chosen for your virtual private server if universal
 - Badvpn​
 - Webmin​
 - Cerbot
-    - _with User Interface: Generate , Renew and Revoke Certificate_
+  - _with User Interface: Generate , Renew and Revoke Certificate_
 - Shadowsocks​
-  - Shadowsocks Version: libev | shadowsocks-rust | go-shadowsocks2 
-  - Plugins included: v2ray-plugin, xray-plugin and many more . . .
+  - _Shadowsocks Version: libev | shadowsocks-rust | go-shadowsocks2_
+  - _Plugins included: v2ray-plugin, xray-plugin and many more . . ._
 - Stunnel​
-  - SSL through SSH
-  - SSL through Dropbear
-  - SSl through Openvpn
+  - _SSL through SSH_
+  - _SSL through Dropbear_
+  - _SSl through Openvpn_
 - OHP [ Over-HTTP-Puncher]​
-   - OHP through Squid Proxy
-   - OHP through Privoxy
-   - OHP through Openvpn
+   - _OHP through Squid Proxy_
+   - _OHP through Privoxy_
+   - _OHP through Openvpn_
 - Python Socks Proxy​
    with User Interface:  
-   - Simple Socks Proxy
-   - Direct Socks Proxy​
-  - Openvpn Socks Proxy
+   - _Simple Socks Proxy_
+   - _Direct Socks Proxy​_
+   - _Openvpn Socks Proxy_
 
 
 
