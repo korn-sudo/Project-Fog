@@ -43,7 +43,7 @@ _The version can be manually chosen for your virtual private server if universal
 
 
 
-## Command: menu 
+## Command: _menu_ 
 `Use this to access Project Fog Menu through vps terminal`
 #
 
