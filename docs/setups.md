@@ -27,8 +27,8 @@
 | :---: | :---: | :---: | :---: |:---: |
 | Squid | - | ✔ |  | Remote Proxy for SSH and OpenVPN |
 | Privoxy | - | ✔ |  | Remote Proxy for SSH and OpenVPN |
-| OHP | OHP over  SSH |  | ✔ | Remote Proxy for SSH|
-| OHP | OHP over  SSL |  | ✔ | Remote Proxy for SSH |
+| OHP | OHP over  Squid |  | ✔ | Remote Proxy for SSH|
+| OHP | OHP over  Privoxy |  | ✔ | Remote Proxy for SSH |
 | OHP | OHP over  OpenVPN |  | ✔ | Remote Proxy for Openvpn |
 | Python Socks Proxy | Simple Socks Proxy | ✔| | Remote Proxy for SSH and OpenVPN |
 | Python Socks Proxy | Direct Socks Proxy | | ✔ | Remote Proxy for SSH |
