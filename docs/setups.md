@@ -19,7 +19,13 @@
 _Same with " HTTP Proxies" and it will require " Remote Proxies "_
 #
 
+## Remote Proxy
 
+Kinds of Remote Proxy
+- Simple Remote Proxy
+  - _Need "Correct and Valid" HTTP request in order server response Status 200_
+- Direct Remote Proxy
+  - _No need correct and valid http request. Allow all even invalid request and server autamtically response Status 200.
 
 | Services | Method | Simple Remote Proxy | Direct Remote Proxy | Use Case |
 | :---: | :---: | :---: | :---: |:---: |
