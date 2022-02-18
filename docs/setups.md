@@ -42,7 +42,7 @@
 _Same with " HTTP Proxies" and it will require " Remote Proxies "_
 #
 #### Bughost
-_Same with "Payload"_
+_Same with "Payload" and "SNI"_
 #
 #### Payload and Remote Proxy
 _This is the key to the gate of free internet, which is why these two items are very important in all setups._
