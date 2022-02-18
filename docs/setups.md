@@ -18,9 +18,9 @@
 
 #### Kinds of Remote Proxy
 - Simple Remote Proxy
-  - _Need "Correct and Valid" HTTP request in order server response Status 200_
+  - _A valid HTTP request is required to receive a status 200 response from the server_
 - Direct Remote Proxy
-  - _No need correct and valid http request. Allow all requests, even invalid ones and server autamtically response Status 200._
+  - _No need for a valid and correct http request. Allow all requests, even invalid ones and server autamtically response Status 200._
 
 ## _Project Fog Services Remote Proxy Summary_
 | Services | Method | Simple Remote Proxy | Direct Remote Proxy | Use Case |
