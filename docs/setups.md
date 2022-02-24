@@ -1,4 +1,4 @@
-# _Getting Started with Project Fog Services_
+# _Project Fog Services Use Case_
 
 #### _Disclaimer: I am not an expert in configs making. it is only based on my experience and how I use it. Feel free to DM me if I have incorrect information. I will correct it._
 
