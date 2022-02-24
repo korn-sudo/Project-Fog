@@ -38,7 +38,7 @@ _It will install the version of Project Fog that is compatible with your VPS's o
 </p>
 
 
-_The version can be manually chosen for your virtual private server if universal installation fails._ See [_Project Fog Versions_](docs/fog-versions.md).
+_The version can be manually chosen for your virtual private server if universal installation fails._ See [_Project Fog Installers_](docs/fog-versions.md).
 ##
 
 
@@ -91,12 +91,12 @@ _The version can be manually chosen for your virtual private server if universal
 
 #
 ## _Learn more about ☁️Project Fog☁️_
-- [_Project Fog Versions_](docs/fog-versions.md)
-- [_Changelogs_](docs/changelog.md)
+- [_Project Fog Installers_](docs/fog-versions.md)
+- [_Versions / Changelogs_](docs/changelog.md)
 - [_Features_](docs/features.md)
 - [_Guides_](docs/how.md)
-- [_Project Fog Services Use Case_](docs/uses.md)
-- [Getting Started with Project Fog Services](docs/setups.md)
+- [_Project Fog Services Definitions_](docs/uses.md)
+- [_Project Fog Services Use Case_](docs/setups.md)
 - [_Known Issues_](docs/bugs.md)
 - [_Frequently Asked Questions_](docs/questions.md)
 - [_Credits_](docs/credits.md)
