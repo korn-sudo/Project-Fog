@@ -1,5 +1,5 @@
 
-# ☁️Project Fog Services Use Case☁️
+# ☁️Project Fog Services Definitions☁️
 
 _Disclaimer! This is not a complete use case for the services, it is only based on my experience and how I use it. Feel free to DM me if I have incorrect information. I will correct it._
 #
