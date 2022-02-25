@@ -99,7 +99,7 @@ _The version can be manually chosen for your virtual private server if universal
 - [_Project Fog Services Use Case_](docs/setups.md)
 - [_Known Issues_](docs/bugs.md)
 - [_Frequently Asked Questions_](docs/questions.md)
-- [_Credits_](docs/credits.md)
+- [_Credits_](CONTRIBUTING.md)
 
 
 
@@ -109,7 +109,7 @@ _The version can be manually chosen for your virtual private server if universal
  _Great! I do not currently have a VPS or server. I would appreciate it if you could spare some of yours so that this project can continue._
  
  
- #### _The following people or organizations deserve credit for Project Fog._ _[ See: [Credits](docs/credits.md) ]_
+ #### _The following people or organizations deserve credit for Project Fog._ _[ See: [Credits](CONTRIBUTING.md) ]_
  
  #
  ## _Author_
