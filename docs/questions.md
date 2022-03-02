@@ -43,5 +43,11 @@ iptables -L
 >_Because I find it annoying when people sell scripts. Simple as that._
 #
 
-10. Will you always update your project?
+10. I installed Project Fog correctly, but the services do not display or work?
+> - _Please open all ports in order for Project Fog to work properly._
+> - _Don't worry about the open port; it will only be open temporarily while the project fog is being installed. It will be automatically closed after installation._
+> - To verify all open and closed port: Go to your vps terminal or command line then type: iptables -L or just go to your Webnin (ip:10000)
+#
+
+11. Will you always update your project?
 >_No, After this version 3.01, I won't be able to update it since my virtual private server expired and I have a limited amount of time._
