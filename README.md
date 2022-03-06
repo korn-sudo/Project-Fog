@@ -16,9 +16,9 @@ Project Fog is a VPS AutoScript for Ubuntu and Debian Distros. Comes with pre-in
 - Ubuntu 18. 20 and above.
 - Debian 9, 10, 11, and above.
 - Fresh  VPS (rebuild your vps if you have installed it something on it)
-- All  TCP and UDP ports should be open.
+- All TCP and UDP ports should be open.
 
-_If all of these prerequisites are met, you can install the Project Fog script; however, if these two requirements are not met, Project Fog will not work._
+_If all of these prerequisites are met, you can install the Project Fog script; however, if these requirements are not met, Project Fog will not work._
 
 _VPS providers such as Digitalocean, Vultr, and Linode have all of their vps set to open all port by default. However, AWS, Azure, Tencent, Alibaba, and other companies have shut off all ports._
 
